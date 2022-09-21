@@ -1,0 +1,8373 @@
+[
+  {
+    "cityName": "Berlin",
+    "residents": {
+      "year1970": 3208719,
+      "year1980": 3048759,
+      "year1990": 3433695,
+      "year2000": 3382169,
+      "year2010": 3460725,
+      "year2021": 3677472
+    },
+    "state": "Berlin"
+  },
+  {
+    "cityName": "Hamburg",
+    "residents": {
+      "year1970": 1793640,
+      "year1980": 1645095,
+      "year1990": 1652363,
+      "year2000": 1715392,
+      "year2010": 1786448,
+      "year2021": 1853935
+    },
+    "state": "Hamburg"
+  },
+  {
+    "cityName": "München",
+    "residents": {
+      "year1970": 1311978,
+      "year1980": 1298941,
+      "year1990": 1229026,
+      "year2000": 1210223,
+      "year2010": 1353186,
+      "year2021": 1487708
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Köln",
+    "residents": {
+      "year1970": 849451,
+      "year1980": 976694,
+      "year1990": 953551,
+      "year2000": 962884,
+      "year2010": 1007119,
+      "year2021": 1073096
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Frankfurt am Main",
+    "residents": {
+      "year1970": 666179,
+      "year1980": 629375,
+      "year1990": 644865,
+      "year2000": 646550,
+      "year2010": 679664,
+      "year2021": 759224
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Stuttgart",
+    "residents": {
+      "year1970": 634202,
+      "year1980": 580648,
+      "year1990": 579988,
+      "year2000": 583874,
+      "year2010": 606588,
+      "year2021": 626275
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Düsseldorf",
+    "residents": {
+      "year1970": 660963,
+      "year1980": 590479,
+      "year1990": 575794,
+      "year2000": 569364,
+      "year2010": 588735,
+      "year2021": 619477
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Leipzig",
+    "residents": {
+      "year1970": 583885,
+      "year1980": 562480,
+      "year1990": 511079,
+      "year2000": 493208,
+      "year2010": 522883,
+      "year2021": 601866
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Dortmund",
+    "residents": {
+      "year1970": 640642,
+      "year1980": 608297,
+      "year1990": 599055,
+      "year2000": 588994,
+      "year2010": 580444,
+      "year2021": 586852
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Essen",
+    "residents": {
+      "year1970": 696419,
+      "year1980": 647643,
+      "year1990": 626973,
+      "year2000": 595243,
+      "year2010": 574635,
+      "year2021": 579432
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bremen",
+    "residents": {
+      "year1970": 592533,
+      "year1980": 555118,
+      "year1990": 551219,
+      "year2000": 539403,
+      "year2010": 547340,
+      "year2021": 563290
+    },
+    "state": "Bremen"
+  },
+  {
+    "cityName": "Dresden",
+    "residents": {
+      "year1970": 502432,
+      "year1980": 516225,
+      "year1990": 490571,
+      "year2000": 477807,
+      "year2010": 523058,
+      "year2021": 555351
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Hannover",
+    "residents": {
+      "year1970": 521003,
+      "year1980": 534623,
+      "year1990": 513010,
+      "year2000": 515001,
+      "year2010": 522686,
+      "year2021": 535932
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Nürnberg",
+    "residents": {
+      "year1970": 478181,
+      "year1980": 484405,
+      "year1990": 493692,
+      "year2000": 488400,
+      "year2010": 505664,
+      "year2021": 510632
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Duisburg",
+    "residents": {
+      "year1970": 452721,
+      "year1980": 558089,
+      "year1990": 535447,
+      "year2000": 514915,
+      "year2010": 489559,
+      "year2021": 495152
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bochum",
+    "residents": {
+      "year1970": 343809,
+      "year1980": 400757,
+      "year1990": 396486,
+      "year2000": 391147,
+      "year2010": 374737,
+      "year2021": 363441
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Wuppertal",
+    "residents": {
+      "year1970": 417694,
+      "year1980": 393381,
+      "year1990": 383660,
+      "year2000": 366434,
+      "year2010": 349721,
+      "year2021": 354572
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bielefeld",
+    "residents": {
+      "year1970": 168609,
+      "year1980": 312708,
+      "year1990": 319037,
+      "year2000": 321758,
+      "year2010": 323270,
+      "year2021": 334002
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bonn",
+    "residents": {
+      "year1970": 275722,
+      "year1980": 288148,
+      "year1990": 292234,
+      "year2000": 302247,
+      "year2010": 324899,
+      "year2021": 331885
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Münster",
+    "residents": {
+      "year1970": 198878,
+      "year1980": 269696,
+      "year1990": 259438,
+      "year2000": 265609,
+      "year2010": 279803,
+      "year2021": 317713
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Mannheim",
+    "residents": {
+      "year1970": 332378,
+      "year1980": 304303,
+      "year1990": 310411,
+      "year2000": 306729,
+      "year2010": 313174,
+      "year2021": 311831
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Karlsruhe",
+    "residents": {
+      "year1970": 259091,
+      "year1980": 271892,
+      "year1990": 275061,
+      "year2000": 278558,
+      "year2010": 294761,
+      "year2021": 306502
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Augsburg",
+    "residents": {
+      "year1970": 213230,
+      "year1980": 248346,
+      "year1990": 256877,
+      "year2000": 254982,
+      "year2010": 264708,
+      "year2021": 296478
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Wiesbaden",
+    "residents": {
+      "year1970": 250715,
+      "year1980": 274464,
+      "year1990": 260301,
+      "year2000": 270109,
+      "year2010": 275976,
+      "year2021": 278950
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Mönchengladbach",
+    "residents": {
+      "year1970": 151085,
+      "year1980": 258424,
+      "year1990": 259436,
+      "year2000": 263014,
+      "year2010": 257993,
+      "year2021": 261001
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Gelsenkirchen",
+    "residents": {
+      "year1970": 347074,
+      "year1980": 304386,
+      "year1990": 293714,
+      "year2000": 278695,
+      "year2010": 257981,
+      "year2021": 260126
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Aachen",
+    "residents": {
+      "year1970": 175451,
+      "year1980": 243947,
+      "year1990": 241861,
+      "year2000": 244386,
+      "year2010": 258664,
+      "year2021": 249070
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Braunschweig",
+    "residents": {
+      "year1970": 223275,
+      "year1980": 261141,
+      "year1990": 258833,
+      "year2000": 245816,
+      "year2010": 248867,
+      "year2021": 248823
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Kiel",
+    "residents": {
+      "year1970": 271042,
+      "year1980": 250062,
+      "year1990": 245567,
+      "year2000": 232612,
+      "year2010": 239526,
+      "year2021": 246243
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Chemnitz1",
+    "residents": {
+      "year1970": 299411,
+      "year1980": 317644,
+      "year1990": 294244,
+      "year2000": 259246,
+      "year2010": 243248,
+      "year2021": 243105
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Halle (Saale)",
+    "residents": {
+      "year1970": 257261,
+      "year1980": 232294,
+      "year1990": 310234,
+      "year2000": 247736,
+      "year2010": 232963,
+      "year2021": 238061
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Magdeburg",
+    "residents": {
+      "year1970": 272237,
+      "year1980": 289032,
+      "year1990": 278807,
+      "year2000": 231450,
+      "year2010": 231525,
+      "year2021": 236188
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Freiburg im Breisgau",
+    "residents": {
+      "year1970": 163568,
+      "year1980": 175106,
+      "year1990": 191029,
+      "year2000": 205102,
+      "year2010": 224191,
+      "year2021": 231848
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Krefeld",
+    "residents": {
+      "year1970": 222666,
+      "year1980": 223969,
+      "year1990": 244020,
+      "year2000": 239916,
+      "year2010": 235076,
+      "year2021": 227050
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Mainz",
+    "residents": {
+      "year1970": 174858,
+      "year1980": 187392,
+      "year1990": 179486,
+      "year2000": 182870,
+      "year2010": 199237,
+      "year2021": 217556
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Lübeck",
+    "residents": {
+      "year1970": 239955,
+      "year1980": 220588,
+      "year1990": 214758,
+      "year2000": 213399,
+      "year2010": 210232,
+      "year2021": 216277
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Erfurt",
+    "residents": {
+      "year1970": 195994,
+      "year1980": 211575,
+      "year1990": 208989,
+      "year2000": 200564,
+      "year2010": 204994,
+      "year2021": 213227
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Oberhausen",
+    "residents": {
+      "year1970": 246199,
+      "year1980": 228947,
+      "year1990": 223840,
+      "year2000": 222151,
+      "year2010": 212945,
+      "year2021": 208752
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Rostock",
+    "residents": {
+      "year1970": 198636,
+      "year1980": 232506,
+      "year1990": 248088,
+      "year2000": 200506,
+      "year2010": 202735,
+      "year2021": 208400
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Kassel",
+    "residents": {
+      "year1970": 214785,
+      "year1980": 195912,
+      "year1990": 194268,
+      "year2000": 194766,
+      "year2010": 195530,
+      "year2021": 200406
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Hagen",
+    "residents": {
+      "year1970": 201042,
+      "year1980": 218927,
+      "year1990": 214449,
+      "year2000": 203151,
+      "year2010": 188529,
+      "year2021": 188713
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Potsdam",
+    "residents": {
+      "year1970": 111336,
+      "year1980": 130900,
+      "year1990": 139794,
+      "year2000": 129324,
+      "year2010": 156906,
+      "year2021": 183154
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Saarbrücken",
+    "residents": {
+      "year1970": 128251,
+      "year1980": 193554,
+      "year1990": 191694,
+      "year2000": 183257,
+      "year2010": 175741,
+      "year2021": 179634
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Hamm",
+    "residents": {
+      "year1970": 84629,
+      "year1980": 171869,
+      "year1990": 179639,
+      "year2000": 182427,
+      "year2010": 181783,
+      "year2021": 179238
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Ludwigshafen am Rhein",
+    "residents": {
+      "year1970": 176257,
+      "year1980": 159399,
+      "year1990": 162233,
+      "year2000": 163383,
+      "year2010": 164351,
+      "year2021": 172145
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Mülheim an der Ruhr",
+    "residents": {
+      "year1970": 192183,
+      "year1980": 181279,
+      "year1990": 177681,
+      "year2000": 172862,
+      "year2010": 167344,
+      "year2021": 170739
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Oldenburg",
+    "residents": {
+      "year1970": 131545,
+      "year1980": 136764,
+      "year1990": 143131,
+      "year2000": 154832,
+      "year2010": 162173,
+      "year2021": 170389
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Osnabrück",
+    "residents": {
+      "year1970": 144864,
+      "year1980": 157367,
+      "year1990": 163168,
+      "year2000": 164101,
+      "year2010": 164119,
+      "year2021": 165034
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Leverkusen",
+    "residents": {
+      "year1970": 107626,
+      "year1980": 160825,
+      "year1990": 160919,
+      "year2000": 161047,
+      "year2010": 160772,
+      "year2021": 163851
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Darmstadt",
+    "residents": {
+      "year1970": 141847,
+      "year1980": 138201,
+      "year1990": 138920,
+      "year2000": 138242,
+      "year2010": 144402,
+      "year2021": 159631
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Heidelberg",
+    "residents": {
+      "year1970": 121398,
+      "year1980": 133227,
+      "year1990": 136796,
+      "year2000": 140259,
+      "year2010": 147312,
+      "year2021": 159245
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Solingen",
+    "residents": {
+      "year1970": 177124,
+      "year1980": 166085,
+      "year1990": 165401,
+      "year2000": 164973,
+      "year2010": 159927,
+      "year2021": 158957
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Herne",
+    "residents": {
+      "year1970": 103849,
+      "year1980": 182542,
+      "year1990": 178132,
+      "year2000": 174529,
+      "year2010": 164762,
+      "year2021": 156621
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Regensburg",
+    "residents": {
+      "year1970": 130888,
+      "year1980": 132604,
+      "year1990": 121691,
+      "year2000": 125676,
+      "year2010": 135520,
+      "year2021": 153542
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Neuss",
+    "residents": {
+      "year1970": 116013,
+      "year1980": 149334,
+      "year1990": 147019,
+      "year2000": 150013,
+      "year2010": 151388,
+      "year2021": 152731
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Paderborn",
+    "residents": {
+      "year1970": 68207,
+      "year1980": 110155,
+      "year1990": 120680,
+      "year2000": 139084,
+      "year2010": 146283,
+      "year2021": 152531
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Ingolstadt",
+    "residents": {
+      "year1970": 70594,
+      "year1980": 90490,
+      "year1990": 105489,
+      "year2000": 115722,
+      "year2010": 125088,
+      "year2021": 138016
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Offenbach am Main",
+    "residents": {
+      "year1970": 118841,
+      "year1980": 110993,
+      "year1990": 114992,
+      "year2000": 117535,
+      "year2010": 120435,
+      "year2021": 131295
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Fürth",
+    "residents": {
+      "year1970": 94415,
+      "year1980": 99088,
+      "year1990": 103362,
+      "year2000": 110477,
+      "year2010": 114628,
+      "year2021": 129122
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Ulm",
+    "residents": {
+      "year1970": 93158,
+      "year1980": 100671,
+      "year1990": 110529,
+      "year2000": 117233,
+      "year2010": 122801,
+      "year2021": 126949
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Würzburg",
+    "residents": {
+      "year1970": 116395,
+      "year1980": 128652,
+      "year1990": 127777,
+      "year2000": 127966,
+      "year2010": 133799,
+      "year2021": 126933
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Heilbronn",
+    "residents": {
+      "year1970": 102300,
+      "year1980": 111938,
+      "year1990": 115843,
+      "year2000": 119305,
+      "year2010": 122879,
+      "year2021": 125613
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Pforzheim",
+    "residents": {
+      "year1970": 91104,
+      "year1980": 106500,
+      "year1990": 112944,
+      "year2000": 117156,
+      "year2010": 119781,
+      "year2021": 125529
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Wolfsburg",
+    "residents": {
+      "year1970": 90115,
+      "year1980": 125935,
+      "year1990": 128510,
+      "year2000": 121805,
+      "year2010": 121451,
+      "year2021": 123949
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Bottrop",
+    "residents": {
+      "year1970": 106225,
+      "year1980": 114571,
+      "year1990": 118936,
+      "year2000": 120611,
+      "year2010": 116771,
+      "year2021": 117311
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Göttingen",
+    "residents": {
+      "year1970": 109892,
+      "year1980": 129656,
+      "year1990": 121831,
+      "year2000": 124132,
+      "year2010": 121060,
+      "year2021": 116557
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Reutlingen",
+    "residents": {
+      "year1970": 79705,
+      "year1980": 95456,
+      "year1990": 103687,
+      "year2000": 110650,
+      "year2010": 112484,
+      "year2021": 116456
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Koblenz",
+    "residents": {
+      "year1970": 120079,
+      "year1980": 113676,
+      "year1990": 108733,
+      "year2000": 107950,
+      "year2010": 106417,
+      "year2021": 113638
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Erlangen",
+    "residents": {
+      "year1970": 85061,
+      "year1980": 101845,
+      "year1990": 102440,
+      "year2000": 100778,
+      "year2010": 105629,
+      "year2021": 113292
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bremerhaven",
+    "residents": {
+      "year1970": 142919,
+      "year1980": 138728,
+      "year1990": 130446,
+      "year2000": 120822,
+      "year2010": 113366,
+      "year2021": 113173
+    },
+    "state": "Bremen"
+  },
+  {
+    "cityName": "Remscheid",
+    "residents": {
+      "year1970": 136822,
+      "year1980": 129082,
+      "year1990": 123155,
+      "year2000": 119287,
+      "year2010": 110563,
+      "year2021": 111770
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bergisch Gladbach",
+    "residents": {
+      "year1970": 50228,
+      "year1980": 101472,
+      "year1990": 104037,
+      "year2000": 105693,
+      "year2010": 105723,
+      "year2021": 111645
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Recklinghausen",
+    "residents": {
+      "year1970": 125369,
+      "year1980": 119418,
+      "year1990": 125060,
+      "year2000": 124785,
+      "year2010": 118365,
+      "year2021": 110714
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Trier",
+    "residents": {
+      "year1970": 103598,
+      "year1980": 95536,
+      "year1990": 97835,
+      "year2000": 99410,
+      "year2010": 105260,
+      "year2021": 110570
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Jena",
+    "residents": {
+      "year1970": 88130,
+      "year1980": 103718,
+      "year1990": 102518,
+      "year2000": 99893,
+      "year2010": 105129,
+      "year2021": 110502
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Moers",
+    "residents": {
+      "year1970": 53410,
+      "year1980": 99923,
+      "year1990": 104595,
+      "year2000": 107062,
+      "year2010": 105506,
+      "year2021": 103725
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Salzgitter",
+    "residents": {
+      "year1970": 119031,
+      "year1980": 113600,
+      "year1990": 114355,
+      "year2000": 112302,
+      "year2010": 102394,
+      "year2021": 103694
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Siegen",
+    "residents": {
+      "year1970": 57563,
+      "year1980": 112320,
+      "year1990": 109174,
+      "year2000": 108476,
+      "year2010": 103424,
+      "year2021": 101516
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Gütersloh",
+    "residents": {
+      "year1970": 75912,
+      "year1980": 78221,
+      "year1990": 86807,
+      "year2000": 95158,
+      "year2010": 96404,
+      "year2021": 101158
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Hildesheim",
+    "residents": {
+      "year1970": 93373,
+      "year1980": 102619,
+      "year1990": 105291,
+      "year2000": 103909,
+      "year2010": 102794,
+      "year2021": 100319
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Kaiserslautern",
+    "residents": {
+      "year1970": 100696,
+      "year1980": 98745,
+      "year1990": 99351,
+      "year2000": 99825,
+      "year2010": 99184,
+      "year2021": 99292
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Hanau",
+    "residents": {
+      "year1970": 55492,
+      "year1980": 86402,
+      "year1990": 86913,
+      "year2000": 88294,
+      "year2010": 88637,
+      "year2021": 98502
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Cottbus",
+    "residents": {
+      "year1970": 83444,
+      "year1980": 113479,
+      "year1990": 125891,
+      "year2000": 108491,
+      "year2010": 102091,
+      "year2021": 98359
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Schwerin",
+    "residents": {
+      "year1970": 97389,
+      "year1980": 121175,
+      "year1990": 127447,
+      "year2000": 101267,
+      "year2010": 95220,
+      "year2021": 95740
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Witten",
+    "residents": {
+      "year1970": 97687,
+      "year1980": 105876,
+      "year1990": 105403,
+      "year2000": 103196,
+      "year2010": 98233,
+      "year2021": 95107
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Ludwigsburg",
+    "residents": {
+      "year1970": 78111,
+      "year1980": 81589,
+      "year1990": 82343,
+      "year2000": 87146,
+      "year2010": 87735,
+      "year2021": 93117
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Esslingen am Neckar",
+    "residents": {
+      "year1970": 87371,
+      "year1980": 90835,
+      "year1990": 91685,
+      "year2000": 89667,
+      "year2010": 91869,
+      "year2021": 92640
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Tübingen",
+    "residents": {
+      "year1970": 55168,
+      "year1980": 73132,
+      "year1990": 80372,
+      "year2000": 81128,
+      "year2010": 88358,
+      "year2021": 91877
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Iserlohn",
+    "residents": {
+      "year1970": 57321,
+      "year1980": 93823,
+      "year1990": 96314,
+      "year2000": 98790,
+      "year2010": 94966,
+      "year2021": 91873
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Düren",
+    "residents": {
+      "year1970": 53755,
+      "year1980": 85913,
+      "year1990": 86508,
+      "year2000": 91801,
+      "year2010": 92820,
+      "year2021": 91814
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Gera",
+    "residents": {
+      "year1970": 111535,
+      "year1980": 125383,
+      "year1990": 129037,
+      "year2000": 112835,
+      "year2010": 99262,
+      "year2021": 91368
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Gießen",
+    "residents": {
+      "year1970": 75532,
+      "year1980": 76374,
+      "year1990": 74497,
+      "year2000": 73138,
+      "year2010": 77366,
+      "year2021": 91255
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Flensburg",
+    "residents": {
+      "year1970": 95366,
+      "year1980": 87862,
+      "year1990": 86977,
+      "year2000": 84281,
+      "year2010": 88759,
+      "year2021": 91113
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Zwickau",
+    "residents": {
+      "year1970": 126988,
+      "year1980": 122129,
+      "year1990": 114632,
+      "year2000": 103008,
+      "year2010": 93750,
+      "year2021": 86592
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Villingen-Schwenningen3",
+    "residents": {
+      "year1970": 37999,
+      "year1980": 78904,
+      "year1990": 78218,
+      "year2000": 80891,
+      "year2010": 81022,
+      "year2021": 86475
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Ratingen",
+    "residents": {
+      "year1970": 44479,
+      "year1980": 89466,
+      "year1990": 91007,
+      "year2000": 91437,
+      "year2010": 91088,
+      "year2021": 86424
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lünen",
+    "residents": {
+      "year1970": 71826,
+      "year1980": 85872,
+      "year1990": 87845,
+      "year2000": 92017,
+      "year2010": 87530,
+      "year2021": 85721
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Konstanz",
+    "residents": {
+      "year1970": 61614,
+      "year1980": 68305,
+      "year1990": 75089,
+      "year2000": 78087,
+      "year2010": 84693,
+      "year2021": 84736
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Worms",
+    "residents": {
+      "year1970": 77064,
+      "year1980": 73603,
+      "year1990": 76503,
+      "year2000": 80361,
+      "year2010": 81736,
+      "year2021": 83850
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Marl",
+    "residents": {
+      "year1970": 76999,
+      "year1980": 89082,
+      "year1990": 91467,
+      "year2000": 93256,
+      "year2010": 87557,
+      "year2021": 83697
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Minden",
+    "residents": {
+      "year1970": 48860,
+      "year1980": 77713,
+      "year1990": 78145,
+      "year2000": 83079,
+      "year2010": 82114,
+      "year2021": 81857
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Velbert",
+    "residents": {
+      "year1970": 55610,
+      "year1980": 93056,
+      "year1990": 89253,
+      "year2000": 89782,
+      "year2010": 84033,
+      "year2021": 81593
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Norderstedt",
+    "residents": {
+      "year1970": 55770,
+      "year1980": 65301,
+      "year1990": 68450,
+      "year2000": 71523,
+      "year2010": 71992,
+      "year2021": 80420
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Neumünster",
+    "residents": {
+      "year1970": 86133,
+      "year1980": 80145,
+      "year1990": 80743,
+      "year2000": 79831,
+      "year2010": 76830,
+      "year2021": 79496
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Dessau-Roßlau2",
+    "residents": {
+      "year1970": 98402,
+      "year1980": 102529,
+      "year1990": 96754,
+      "year2000": 83153,
+      "year2010": 86906,
+      "year2021": 78731
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Bamberg",
+    "residents": {
+      "year1970": 70384,
+      "year1980": 71928,
+      "year1990": 70521,
+      "year2000": 69036,
+      "year2010": 70004,
+      "year2021": 77749
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Viersen",
+    "residents": {
+      "year1970": 85698,
+      "year1980": 81114,
+      "year1990": 77453,
+      "year2000": 77130,
+      "year2010": 75360,
+      "year2021": 77523
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Delmenhorst",
+    "residents": {
+      "year1970": 63870,
+      "year1980": 72370,
+      "year1990": 75154,
+      "year2000": 76644,
+      "year2010": 74361,
+      "year2021": 77522
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Rheine",
+    "residents": {
+      "year1970": 50076,
+      "year1980": 71432,
+      "year1990": 70452,
+      "year2000": 75886,
+      "year2010": 76530,
+      "year2021": 76948
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Marburg",
+    "residents": {
+      "year1970": 47230,
+      "year1980": 76419,
+      "year1990": 74146,
+      "year2000": 77390,
+      "year2010": 80656,
+      "year2021": 76571
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Lüneburg",
+    "residents": {
+      "year1970": 59763,
+      "year1980": 62225,
+      "year1990": 61870,
+      "year2000": 67398,
+      "year2010": 72983,
+      "year2021": 75599
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Gladbeck",
+    "residents": {
+      "year1970": 83132,
+      "year1980": 79747,
+      "year1990": 80267,
+      "year2000": 77789,
+      "year2010": 75253,
+      "year2021": 75343
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Troisdorf",
+    "residents": {
+      "year1970": 51941,
+      "year1980": 58618,
+      "year1990": 64430,
+      "year2000": 72678,
+      "year2010": 75369,
+      "year2021": 75222
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Wilhelmshaven",
+    "residents": {
+      "year1970": 102978,
+      "year1980": 99230,
+      "year1990": 90561,
+      "year2000": 85287,
+      "year2010": 81324,
+      "year2021": 75027
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Dorsten",
+    "residents": {
+      "year1970": 39551,
+      "year1980": 70287,
+      "year1990": 78035,
+      "year2000": 81063,
+      "year2010": 76775,
+      "year2021": 74551
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Detmold",
+    "residents": {
+      "year1970": 63684,
+      "year1980": 67612,
+      "year1990": 70074,
+      "year2000": 73695,
+      "year2010": 72758,
+      "year2021": 73969
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bayreuth",
+    "residents": {
+      "year1970": 64185,
+      "year1980": 70633,
+      "year1990": 72345,
+      "year2000": 74153,
+      "year2010": 72683,
+      "year2021": 73909
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Arnsberg",
+    "residents": {
+      "year1970": 22398,
+      "year1980": 78056,
+      "year1990": 75864,
+      "year2000": 77473,
+      "year2010": 74227,
+      "year2021": 73423
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Landshut",
+    "residents": {
+      "year1970": 52425,
+      "year1980": 55796,
+      "year1990": 59066,
+      "year2000": 58746,
+      "year2010": 63258,
+      "year2021": 73150
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Castrop-Rauxel",
+    "residents": {
+      "year1970": 83901,
+      "year1980": 78877,
+      "year1990": 79037,
+      "year2000": 78608,
+      "year2010": 75408,
+      "year2021": 73078
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Brandenburg an der Havel",
+    "residents": {
+      "year1970": 93983,
+      "year1980": 94953,
+      "year1990": 89889,
+      "year2000": 77516,
+      "year2010": 71778,
+      "year2021": 72461
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Aschaffenburg",
+    "residents": {
+      "year1970": 55119,
+      "year1980": 59257,
+      "year1990": 64098,
+      "year2000": 67592,
+      "year2010": 68678,
+      "year2021": 71381
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Lüdenscheid",
+    "residents": {
+      "year1970": 79086,
+      "year1980": 74578,
+      "year1990": 79401,
+      "year2000": 80613,
+      "year2010": 75463,
+      "year2021": 71230
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bocholt",
+    "residents": {
+      "year1970": 49244,
+      "year1980": 65352,
+      "year1990": 68936,
+      "year2000": 72138,
+      "year2010": 73170,
+      "year2021": 71074
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Celle",
+    "residents": {
+      "year1970": 57130,
+      "year1980": 72820,
+      "year1990": 72260,
+      "year2000": 72127,
+      "year2010": 70242,
+      "year2021": 69279
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Kempten (Allgäu)",
+    "residents": {
+      "year1970": 44884,
+      "year1980": 57376,
+      "year1990": 61906,
+      "year2000": 61389,
+      "year2010": 62060,
+      "year2021": 69053
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Fulda",
+    "residents": {
+      "year1970": 45187,
+      "year1980": 57035,
+      "year1990": 56289,
+      "year2000": 62510,
+      "year2010": 64349,
+      "year2021": 68462
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Aalen",
+    "residents": {
+      "year1970": 37066,
+      "year1980": 63030,
+      "year1990": 64781,
+      "year2000": 66066,
+      "year2010": 66113,
+      "year2021": 68351
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Lippstadt",
+    "residents": {
+      "year1970": 41743,
+      "year1980": 61927,
+      "year1990": 62345,
+      "year2000": 66933,
+      "year2010": 66976,
+      "year2021": 68007
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Dinslaken",
+    "residents": {
+      "year1970": 55241,
+      "year1980": 59473,
+      "year1990": 65313,
+      "year2000": 70714,
+      "year2010": 69472,
+      "year2021": 67114
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Herford",
+    "residents": {
+      "year1970": 65422,
+      "year1980": 62881,
+      "year1990": 63893,
+      "year2000": 65083,
+      "year2010": 64088,
+      "year2021": 66551
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Kerpen",
+    "residents": {
+      "year1970": 10608,
+      "year1980": 54725,
+      "year1990": 57337,
+      "year2000": 63135,
+      "year2010": 64602,
+      "year2021": 66294
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Rüsselsheim am Main",
+    "residents": {
+      "year1970": 60911,
+      "year1980": 60974,
+      "year1990": 59430,
+      "year2000": 59357,
+      "year2010": 60294,
+      "year2021": 66125
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Weimar",
+    "residents": {
+      "year1970": 63634,
+      "year1980": 63709,
+      "year1990": 60326,
+      "year2000": 62425,
+      "year2010": 65479,
+      "year2021": 65138
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Neuwied",
+    "residents": {
+      "year1970": 62666,
+      "year1980": 60485,
+      "year1990": 62075,
+      "year2000": 67057,
+      "year2010": 64318,
+      "year2021": 65137
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Dormagen",
+    "residents": {
+      "year1970": 30869,
+      "year1980": 56645,
+      "year1990": 58260,
+      "year2000": 62957,
+      "year2010": 62961,
+      "year2021": 64553
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Sindelfingen",
+    "residents": {
+      "year1970": 41967,
+      "year1980": 54808,
+      "year1990": 58805,
+      "year2000": 60766,
+      "year2010": 60445,
+      "year2021": 64151
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Grevenbroich",
+    "residents": {
+      "year1970": 27698,
+      "year1980": 60317,
+      "year1990": 60835,
+      "year2000": 64688,
+      "year2010": 63891,
+      "year2021": 63922
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Rosenheim",
+    "residents": {
+      "year1970": 37078,
+      "year1980": 51604,
+      "year1990": 56340,
+      "year2000": 58908,
+      "year2010": 61299,
+      "year2021": 63508
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Plauen",
+    "residents": {
+      "year1970": 82026,
+      "year1980": 78828,
+      "year1990": 71774,
+      "year2000": 71543,
+      "year2010": 66098,
+      "year2021": 63372
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Neubrandenburg",
+    "residents": {
+      "year1970": 46087,
+      "year1980": 79006,
+      "year1990": 89284,
+      "year2000": 73318,
+      "year2010": 65282,
+      "year2021": 63043
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Herten",
+    "residents": {
+      "year1970": 52966,
+      "year1980": 69247,
+      "year1990": 69245,
+      "year2000": 66930,
+      "year2010": 62235,
+      "year2021": 61910
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bergheim",
+    "residents": {
+      "year1970": 10493,
+      "year1980": 54064,
+      "year1990": 58146,
+      "year2000": 63526,
+      "year2010": 62129,
+      "year2021": 61807
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Friedrichshafen",
+    "residents": {
+      "year1970": 43651,
+      "year1980": 52080,
+      "year1990": 54129,
+      "year2000": 57213,
+      "year2010": 59002,
+      "year2021": 61561
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Schwäbisch Gmünd",
+    "residents": {
+      "year1970": 44385,
+      "year1980": 56901,
+      "year1990": 60081,
+      "year2000": 62188,
+      "year2010": 59654,
+      "year2021": 61333
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Offenburg",
+    "residents": {
+      "year1970": 33066,
+      "year1980": 50486,
+      "year1990": 52964,
+      "year2000": 56891,
+      "year2010": 59215,
+      "year2021": 60857
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Garbsen",
+    "residents": {
+      "year1970": 26444,
+      "year1980": 57522,
+      "year1990": 60776,
+      "year2000": 63269,
+      "year2010": 61790,
+      "year2021": 60711
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Wesel",
+    "residents": {
+      "year1970": 45338,
+      "year1980": 56776,
+      "year1990": 59631,
+      "year2000": 62063,
+      "year2010": 60750,
+      "year2021": 60688
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Hürth",
+    "residents": {
+      "year1970": 52235,
+      "year1980": 50794,
+      "year1990": 50808,
+      "year2000": 53261,
+      "year2010": 57922,
+      "year2021": 60034
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Neu-Ulm",
+    "residents": {
+      "year1970": 27925,
+      "year1980": 47415,
+      "year1990": 46264,
+      "year2000": 50188,
+      "year2010": 53504,
+      "year2021": 59814
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Greifswald",
+    "residents": {
+      "year1970": 47017,
+      "year1980": 61278,
+      "year1990": 66251,
+      "year2000": 54236,
+      "year2010": 54610,
+      "year2021": 59332
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Langenfeld (Rheinland)",
+    "residents": {
+      "year1970": 44217,
+      "year1980": 47027,
+      "year1990": 53455,
+      "year2000": 58429,
+      "year2010": 59160,
+      "year2021": 59223
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Stralsund",
+    "residents": {
+      "year1970": 71489,
+      "year1980": 74947,
+      "year1990": 72780,
+      "year2000": 60663,
+      "year2010": 57670,
+      "year2021": 59171
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Unna",
+    "residents": {
+      "year1970": 50299,
+      "year1980": 56416,
+      "year1990": 61552,
+      "year2000": 71375,
+      "year2010": 66502,
+      "year2021": 58911
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Euskirchen",
+    "residents": {
+      "year1970": 42278,
+      "year1980": 44811,
+      "year1990": 49654,
+      "year2000": 53680,
+      "year2010": 55620,
+      "year2021": 58754
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Göppingen",
+    "residents": {
+      "year1970": 48028,
+      "year1980": 53347,
+      "year1990": 54957,
+      "year2000": 57371,
+      "year2010": 56819,
+      "year2021": 58061
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Hameln",
+    "residents": {
+      "year1970": 47201,
+      "year1980": 58390,
+      "year1990": 58539,
+      "year2000": 58807,
+      "year2010": 57771,
+      "year2021": 57394
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Meerbusch",
+    "residents": {
+      "year1970": 46904,
+      "year1980": 49876,
+      "year1990": 52104,
+      "year2000": 55175,
+      "year2010": 54318,
+      "year2021": 56855
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Frankfurt (Oder)",
+    "residents": {
+      "year1970": 62433,
+      "year1980": 80414,
+      "year1990": 86131,
+      "year2000": 72131,
+      "year2010": 60330,
+      "year2021": 56679
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Stolberg (Rheinland)",
+    "residents": {
+      "year1970": 39704,
+      "year1980": 57550,
+      "year1990": 57231,
+      "year2000": 58682,
+      "year2010": 57474,
+      "year2021": 56103
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Eschweiler",
+    "residents": {
+      "year1970": 38666,
+      "year1980": 53478,
+      "year1990": 54675,
+      "year2000": 55090,
+      "year2010": 55505,
+      "year2021": 55784
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lingen (Ems)",
+    "residents": {
+      "year1970": 31522,
+      "year1980": 44097,
+      "year1990": 49137,
+      "year2000": 51684,
+      "year2010": 51177,
+      "year2021": 55599
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Sankt Augustin",
+    "residents": {
+      "year1970": 31892,
+      "year1980": 48580,
+      "year1990": 51886,
+      "year2000": 55248,
+      "year2010": 55442,
+      "year2021": 55563
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Baden-Baden",
+    "residents": {
+      "year1970": 37185,
+      "year1980": 49142,
+      "year1990": 51849,
+      "year2000": 52627,
+      "year2010": 54445,
+      "year2021": 55527
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Waiblingen",
+    "residents": {
+      "year1970": 24195,
+      "year1980": 45114,
+      "year1990": 48387,
+      "year2000": 51362,
+      "year2010": 52900,
+      "year2021": 55526
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Görlitz",
+    "residents": {
+      "year1970": 87492,
+      "year1980": 81399,
+      "year1990": 72237,
+      "year2000": 61599,
+      "year2010": 55596,
+      "year2021": 55519
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Hilden",
+    "residents": {
+      "year1970": 50228,
+      "year1980": 53343,
+      "year1990": 54782,
+      "year2000": 56412,
+      "year2010": 55441,
+      "year2021": 55182
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Pulheim",
+    "residents": {
+      "year1970": 11323,
+      "year1980": 44870,
+      "year1990": 49353,
+      "year2000": 53158,
+      "year2010": 53769,
+      "year2021": 54805
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Langenhagen",
+    "residents": {
+      "year1970": 35474,
+      "year1980": 46764,
+      "year1990": 47432,
+      "year2000": 49432,
+      "year2010": 52583,
+      "year2021": 54712
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Nordhorn",
+    "residents": {
+      "year1970": 44470,
+      "year1980": 48492,
+      "year1990": 49359,
+      "year2000": 51968,
+      "year2010": 53052,
+      "year2021": 54162
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Bad Homburg vor der Höhe",
+    "residents": {
+      "year1970": 42066,
+      "year1980": 51221,
+      "year1990": 51820,
+      "year2000": 52838,
+      "year2010": 52229,
+      "year2021": 54144
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Bad Salzuflen",
+    "residents": {
+      "year1970": 49571,
+      "year1980": 51248,
+      "year1990": 53771,
+      "year2000": 55028,
+      "year2010": 53893,
+      "year2021": 54074
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Hattingen",
+    "residents": {
+      "year1970": 59392,
+      "year1980": 57373,
+      "year1990": 58241,
+      "year2000": 58329,
+      "year2010": 55510,
+      "year2021": 54061
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schweinfurt",
+    "residents": {
+      "year1970": 58178,
+      "year1980": 52445,
+      "year1990": 54483,
+      "year2000": 54325,
+      "year2010": 53415,
+      "year2021": 53585
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Neustadt an der Weinstraße",
+    "residents": {
+      "year1970": 50952,
+      "year1980": 50328,
+      "year1990": 51988,
+      "year2000": 53658,
+      "year2010": 52855,
+      "year2021": 53491
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Passau",
+    "residents": {
+      "year1970": 30758,
+      "year1980": 50698,
+      "year1990": 50328,
+      "year2000": 50536,
+      "year2010": 50594,
+      "year2021": 53093
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Wetzlar",
+    "residents": {
+      "year1970": 36922,
+      "year1980": 51997,
+      "year1990": 51737,
+      "year2000": 52608,
+      "year2010": 51499,
+      "year2021": 52969
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Ahlen",
+    "residents": {
+      "year1970": 49970,
+      "year1980": 54192,
+      "year1990": 54169,
+      "year2000": 55631,
+      "year2010": 53414,
+      "year2021": 52627
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Kleve",
+    "residents": {
+      "year1970": 43640,
+      "year1980": 44026,
+      "year1990": 45963,
+      "year2000": 48662,
+      "year2010": 49477,
+      "year2021": 52470
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Frechen",
+    "residents": {
+      "year1970": 31337,
+      "year1980": 43483,
+      "year1990": 44360,
+      "year2000": 47019,
+      "year2010": 49939,
+      "year2021": 52155
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Menden (Sauerland)",
+    "residents": {
+      "year1970": 30109,
+      "year1980": 53337,
+      "year1990": 56527,
+      "year2000": 59239,
+      "year2010": 55496,
+      "year2021": 52096
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Wolfenbüttel",
+    "residents": {
+      "year1970": 40527,
+      "year1980": 50256,
+      "year1990": 52032,
+      "year2000": 54690,
+      "year2010": 53427,
+      "year2021": 51986
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Ibbenbüren",
+    "residents": {
+      "year1970": 17561,
+      "year1980": 42323,
+      "year1990": 44643,
+      "year2000": 48843,
+      "year2010": 51522,
+      "year2021": 51888
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bad Kreuznach",
+    "residents": {
+      "year1970": 42258,
+      "year1980": 41143,
+      "year1990": 40950,
+      "year2000": 43164,
+      "year2010": 43703,
+      "year2021": 51695
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Gummersbach",
+    "residents": {
+      "year1970": 44880,
+      "year1980": 48660,
+      "year1990": 50965,
+      "year2000": 53311,
+      "year2010": 51309,
+      "year2021": 51126
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Ravensburg",
+    "residents": {
+      "year1970": 32045,
+      "year1980": 42269,
+      "year1990": 45650,
+      "year2000": 47525,
+      "year2010": 49774,
+      "year2021": 50928
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Speyer",
+    "residents": {
+      "year1970": 42184,
+      "year1980": 43864,
+      "year1990": 46553,
+      "year2000": 49776,
+      "year2010": 49857,
+      "year2021": 50565
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Böblingen",
+    "residents": {
+      "year1970": 36127,
+      "year1980": 41505,
+      "year1990": 44903,
+      "year2000": 45838,
+      "year2010": 46488,
+      "year2021": 50470
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Peine",
+    "residents": {
+      "year1970": 31205,
+      "year1980": 47591,
+      "year1990": 46654,
+      "year2000": 49494,
+      "year2010": 48743,
+      "year2021": 50461
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Rastatt",
+    "residents": {
+      "year1970": 29915,
+      "year1980": 37297,
+      "year1990": 42241,
+      "year2000": 46437,
+      "year2010": 47554,
+      "year2021": 50441
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Elmshorn",
+    "residents": {
+      "year1970": 41262,
+      "year1980": 41439,
+      "year1990": 43689,
+      "year2000": 47391,
+      "year2010": 48924,
+      "year2021": 50141
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Willich",
+    "residents": {
+      "year1970": 37747,
+      "year1980": 39115,
+      "year1990": 42416,
+      "year2000": 50300,
+      "year2010": 51949,
+      "year2021": 50133
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Goslar",
+    "residents": {
+      "year1970": 40051,
+      "year1980": 52556,
+      "year1990": 46251,
+      "year2000": 44278,
+      "year2010": 40989,
+      "year2021": 50010
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Erftstadt",
+    "residents": {
+      "year1970": 36578,
+      "year1980": 43208,
+      "year1990": 45403,
+      "year2000": 50689,
+      "year2010": 50553,
+      "year2021": 49667
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Emden",
+    "residents": {
+      "year1970": 48595,
+      "year1980": 51186,
+      "year1990": 50735,
+      "year2000": 50963,
+      "year2010": 51616,
+      "year2021": 49523
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Lörrach",
+    "residents": {
+      "year1970": 33995,
+      "year1980": 41355,
+      "year1990": 42500,
+      "year2000": 45412,
+      "year2010": 48380,
+      "year2021": 49318
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Heidenheim an der Brenz",
+    "residents": {
+      "year1970": 49853,
+      "year1980": 48585,
+      "year1990": 50532,
+      "year2000": 51301,
+      "year2010": 48164,
+      "year2021": 49129
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Gronau (Westf)",
+    "residents": {
+      "year1970": 26482,
+      "year1980": 41209,
+      "year1990": 40687,
+      "year2000": 44860,
+      "year2010": 46553,
+      "year2021": 49031
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Leonberg",
+    "residents": {
+      "year1970": 25049,
+      "year1980": 38927,
+      "year1990": 42654,
+      "year2000": 44037,
+      "year2010": 45098,
+      "year2021": 48931
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bad Oeynhausen",
+    "residents": {
+      "year1970": 13948,
+      "year1980": 44339,
+      "year1990": 46475,
+      "year2000": 50007,
+      "year2010": 48300,
+      "year2021": 48803
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Frankenthal (Pfalz)",
+    "residents": {
+      "year1970": 41493,
+      "year1980": 43725,
+      "year1990": 46966,
+      "year2000": 47763,
+      "year2010": 46793,
+      "year2021": 48773
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Rheda-Wiedenbrück",
+    "residents": {
+      "year1970": 36943,
+      "year1980": 37944,
+      "year1990": 38327,
+      "year2000": 44932,
+      "year2010": 47316,
+      "year2021": 48714
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bergkamen",
+    "residents": {
+      "year1970": 44304,
+      "year1980": 47977,
+      "year1990": 49761,
+      "year2000": 52905,
+      "year2010": 50587,
+      "year2021": 48669
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Singen (Hohentwiel)",
+    "residents": {
+      "year1970": 41427,
+      "year1980": 43529,
+      "year1990": 43689,
+      "year2000": 44478,
+      "year2010": 45826,
+      "year2021": 48587
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Freising",
+    "residents": {
+      "year1970": 29569,
+      "year1980": 34577,
+      "year1990": 37046,
+      "year2000": 40890,
+      "year2010": 45223,
+      "year2021": 48582
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bornheim",
+    "residents": {
+      "year1970": 31420,
+      "year1980": 34293,
+      "year1990": 35858,
+      "year2000": 45407,
+      "year2010": 48531,
+      "year2021": 48435
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Cuxhaven",
+    "residents": {
+      "year1970": 47185,
+      "year1980": 58666,
+      "year1990": 56090,
+      "year2000": 53391,
+      "year2010": 50492,
+      "year2021": 48318
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Soest",
+    "residents": {
+      "year1970": 37671,
+      "year1980": 40791,
+      "year1990": 42602,
+      "year2000": 48520,
+      "year2010": 48579,
+      "year2021": 47929
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lahr/Schwarzwald",
+    "residents": {
+      "year1970": 25030,
+      "year1980": 35465,
+      "year1990": 34719,
+      "year2000": 42411,
+      "year2010": 43827,
+      "year2021": 47891
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Straubing",
+    "residents": {
+      "year1970": 37826,
+      "year1980": 42674,
+      "year1990": 41715,
+      "year2000": 44014,
+      "year2010": 44450,
+      "year2021": 47854
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Dachau",
+    "residents": {
+      "year1970": 32929,
+      "year1980": 33950,
+      "year1990": 35387,
+      "year2000": 38398,
+      "year2010": 42506,
+      "year2021": 47738
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Alsdorf",
+    "residents": {
+      "year1970": 30778,
+      "year1980": 46373,
+      "year1990": 46935,
+      "year2000": 46087,
+      "year2010": 45522,
+      "year2021": 47678
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Stade",
+    "residents": {
+      "year1970": 32769,
+      "year1980": 42818,
+      "year1990": 42487,
+      "year2000": 44929,
+      "year2010": 46159,
+      "year2021": 47579
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Hennef (Sieg)",
+    "residents": {
+      "year1970": 26053,
+      "year1980": 29224,
+      "year1990": 32521,
+      "year2000": 42711,
+      "year2010": 46114,
+      "year2021": 47400
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Landau in der Pfalz",
+    "residents": {
+      "year1970": 31437,
+      "year1980": 36522,
+      "year1990": 37274,
+      "year2000": 41122,
+      "year2010": 43615,
+      "year2021": 46919
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Dülmen",
+    "residents": {
+      "year1970": 21168,
+      "year1980": 38712,
+      "year1990": 40496,
+      "year2000": 46552,
+      "year2010": 46762,
+      "year2021": 46877
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Melle",
+    "residents": {
+      "year1970": 16154,
+      "year1980": 40859,
+      "year1990": 41579,
+      "year2000": 45390,
+      "year2010": 46141,
+      "year2021": 46732
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Oberursel (Taunus)",
+    "residents": {
+      "year1970": 25301,
+      "year1980": 38979,
+      "year1990": 40180,
+      "year2000": 42096,
+      "year2010": 43741,
+      "year2021": 46660
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Oranienburg",
+    "residents": {
+      "year1970": 20381,
+      "year1980": 25300,
+      "year1990": 28696,
+      "year2000": 29872,
+      "year2010": 41810,
+      "year2021": 46555
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Herzogenrath",
+    "residents": {
+      "year1970": 9034,
+      "year1980": 42722,
+      "year1990": 44284,
+      "year2000": 46853,
+      "year2010": 46708,
+      "year2021": 46290
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schwerte",
+    "residents": {
+      "year1970": 24402,
+      "year1980": 47810,
+      "year1990": 50696,
+      "year2000": 50834,
+      "year2010": 48259,
+      "year2021": 46240
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Neunkirchen",
+    "residents": {
+      "year1970": 43411,
+      "year1980": 51992,
+      "year1990": 51536,
+      "year2000": 50882,
+      "year2010": 47398,
+      "year2021": 46098
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Rodgau6",
+    "residents": {
+      "year1970": 10035,
+      "year1980": 35736,
+      "year1990": 40088,
+      "year2000": 43123,
+      "year2010": 43283,
+      "year2021": 45847
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Filderstadt4",
+    "residents": {
+      "year1970": 11311,
+      "year1980": 37300,
+      "year1990": 38498,
+      "year2000": 41924,
+      "year2010": 44348,
+      "year2021": 45814
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Albstadt5",
+    "residents": {
+      "year1970": 22446,
+      "year1980": 48152,
+      "year1990": 49021,
+      "year2000": 48155,
+      "year2010": 44974,
+      "year2021": 45737
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bruchsal",
+    "residents": {
+      "year1970": 27151,
+      "year1980": 37351,
+      "year1990": 38059,
+      "year2000": 41580,
+      "year2010": 43224,
+      "year2021": 45644
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bünde",
+    "residents": {
+      "year1970": 40403,
+      "year1980": 40056,
+      "year1990": 40508,
+      "year2000": 44582,
+      "year2010": 44786,
+      "year2021": 45364
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Weinheim",
+    "residents": {
+      "year1970": 29640,
+      "year1980": 41654,
+      "year1990": 42241,
+      "year2000": 42718,
+      "year2010": 43682,
+      "year2021": 45197
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Fellbach",
+    "residents": {
+      "year1970": 29000,
+      "year1980": 41383,
+      "year1990": 40930,
+      "year2000": 42822,
+      "year2010": 44665,
+      "year2021": 45141
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Hof",
+    "residents": {
+      "year1970": 54058,
+      "year1980": 53180,
+      "year1990": 52913,
+      "year2000": 50741,
+      "year2010": 46286,
+      "year2021": 45125
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Kaufbeuren",
+    "residents": {
+      "year1970": 38918,
+      "year1980": 42013,
+      "year1990": 40432,
+      "year2000": 41905,
+      "year2010": 41843,
+      "year2021": 45118
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Gotha",
+    "residents": {
+      "year1970": 57010,
+      "year1980": 57892,
+      "year1990": 54525,
+      "year2000": 48376,
+      "year2010": 45593,
+      "year2021": 45099
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Lutherstadt Wittenberg",
+    "residents": {
+      "year1970": 47323,
+      "year1980": 53870,
+      "year1990": 49682,
+      "year2000": 48972,
+      "year2010": 49496,
+      "year2021": 44984
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Neustadt am Rübenberge",
+    "residents": {
+      "year1970": 13463,
+      "year1980": 38226,
+      "year1990": 39532,
+      "year2000": 45026,
+      "year2010": 45049,
+      "year2021": 44796
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Memmingen",
+    "residents": {
+      "year1970": 32955,
+      "year1980": 38298,
+      "year1990": 39333,
+      "year2000": 40849,
+      "year2010": 41025,
+      "year2021": 44721
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Lehrte",
+    "residents": {
+      "year1970": 21940,
+      "year1980": 38371,
+      "year1990": 40350,
+      "year2000": 43872,
+      "year2010": 43259,
+      "year2021": 44369
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Falkensee",
+    "residents": {
+      "year1970": 26007,
+      "year1980": 24084,
+      "year1990": 22047,
+      "year2000": 33791,
+      "year2010": 40511,
+      "year2021": 44280
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Brühl",
+    "residents": {
+      "year1970": 40975,
+      "year1980": 42895,
+      "year1990": 41829,
+      "year2000": 43839,
+      "year2010": 44260,
+      "year2021": 43998
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Rottenburg am Neckar",
+    "residents": {
+      "year1970": 13083,
+      "year1980": 31770,
+      "year1990": 36006,
+      "year2000": 40987,
+      "year2010": 42501,
+      "year2021": 43843
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Kaarst",
+    "residents": {
+      "year1970": 15929,
+      "year1980": 38127,
+      "year1990": 40508,
+      "year2000": 42158,
+      "year2010": 42001,
+      "year2021": 43661
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Pinneberg",
+    "residents": {
+      "year1970": 34987,
+      "year1980": 36683,
+      "year1990": 37518,
+      "year2000": 39423,
+      "year2010": 42508,
+      "year2021": 43603
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Erkrath",
+    "residents": {
+      "year1970": 20141,
+      "year1980": 43703,
+      "year1990": 47659,
+      "year2000": 48767,
+      "year2010": 45963,
+      "year2021": 43594
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Erkelenz",
+    "residents": {
+      "year1970": 12435,
+      "year1980": 35773,
+      "year1990": 37833,
+      "year2000": 43194,
+      "year2010": 44457,
+      "year2021": 43492
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bietigheim-Bissingen7",
+    "residents": {
+      "year1970": 22492,
+      "year1980": 34365,
+      "year1990": 38961,
+      "year2000": 40312,
+      "year2010": 42810,
+      "year2021": 43137
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Gifhorn",
+    "residents": {
+      "year1970": 23405,
+      "year1980": 33154,
+      "year1990": 38678,
+      "year2000": 42943,
+      "year2010": 41558,
+      "year2021": 42993
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Borken",
+    "residents": {
+      "year1970": 29402,
+      "year1980": 32420,
+      "year1990": 36049,
+      "year2000": 40474,
+      "year2010": 41245,
+      "year2021": 42974
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Heinsberg",
+    "residents": {
+      "year1970": 10854,
+      "year1980": 36436,
+      "year1990": 37305,
+      "year2000": 41318,
+      "year2010": 40760,
+      "year2021": 42888
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Wismar",
+    "residents": {
+      "year1970": 56287,
+      "year1980": 57455,
+      "year1990": 55509,
+      "year2000": 47031,
+      "year2010": 44397,
+      "year2021": 42785
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Kamen",
+    "residents": {
+      "year1970": 42058,
+      "year1980": 44017,
+      "year1990": 46160,
+      "year2000": 46565,
+      "year2010": 44398,
+      "year2021": 42544
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Aurich",
+    "residents": {
+      "year1970": 11880,
+      "year1980": 34647,
+      "year1990": 36856,
+      "year2000": 40278,
+      "year2010": 40572,
+      "year2021": 42544
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Nettetal",
+    "residents": {
+      "year1970": 36838,
+      "year1980": 37302,
+      "year1990": 38820,
+      "year2000": 41871,
+      "year2010": 41736,
+      "year2021": 42508
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Weiden in der Oberpfalz",
+    "residents": {
+      "year1970": 42244,
+      "year1980": 43886,
+      "year1990": 42234,
+      "year2000": 43030,
+      "year2010": 41961,
+      "year2021": 42472
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bernau bei Berlin",
+    "residents": {
+      "year1970": 13940,
+      "year1980": 17847,
+      "year1990": 19062,
+      "year2000": 24861,
+      "year2010": 36338,
+      "year2021": 42054
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Amberg",
+    "residents": {
+      "year1970": 41345,
+      "year1980": 44264,
+      "year1990": 43111,
+      "year2000": 43794,
+      "year2010": 43755,
+      "year2021": 41994
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Laatzen",
+    "residents": {
+      "year1970": 13666,
+      "year1980": 34748,
+      "year1990": 37242,
+      "year2000": 38402,
+      "year2010": 40254,
+      "year2021": 41965
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Seevetal(*) 9",
+    "residents": {
+      "year1970": 6030,
+      "year1980": 36059,
+      "year1990": 36740,
+      "year2000": 40536,
+      "year2010": 42213,
+      "year2021": 41931
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Monheim am Rhein",
+    "residents": {
+      "year1970": 38094,
+      "year1980": 40559,
+      "year1990": 42656,
+      "year2000": 43514,
+      "year2010": 43063,
+      "year2021": 41913
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Dreieich10",
+    "residents": {
+      "year1970": 22789,
+      "year1980": 39076,
+      "year1990": 38965,
+      "year2000": 40114,
+      "year2010": 40484,
+      "year2021": 41811
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Eisenach",
+    "residents": {
+      "year1970": 50918,
+      "year1980": 50571,
+      "year1990": 45220,
+      "year2000": 44442,
+      "year2010": 42750,
+      "year2021": 41806
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Ansbach",
+    "residents": {
+      "year1970": 33219,
+      "year1980": 38183,
+      "year1990": 37893,
+      "year2000": 40165,
+      "year2010": 40253,
+      "year2021": 41662
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Siegburg",
+    "residents": {
+      "year1970": 33667,
+      "year1980": 34616,
+      "year1990": 35441,
+      "year2000": 37638,
+      "year2010": 39746,
+      "year2021": 41660
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Homburg",
+    "residents": {
+      "year1970": 32497,
+      "year1980": 41847,
+      "year1990": 43696,
+      "year2000": 45769,
+      "year2010": 43808,
+      "year2021": 41612
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Wunstorf",
+    "residents": {
+      "year1970": 17211,
+      "year1980": 37676,
+      "year1990": 38276,
+      "year2000": 41474,
+      "year2010": 41014,
+      "year2021": 41481
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Schwabach",
+    "residents": {
+      "year1970": 26551,
+      "year1980": 35387,
+      "year1990": 35514,
+      "year2000": 38213,
+      "year2010": 38879,
+      "year2021": 41146
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Schwäbisch Hall",
+    "residents": {
+      "year1970": 23665,
+      "year1980": 31562,
+      "year1990": 32226,
+      "year2000": 35456,
+      "year2010": 37137,
+      "year2021": 41141
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Eberswalde12",
+    "residents": {
+      "year1970": 46299,
+      "year1980": 53240,
+      "year1990": 52586,
+      "year2000": 44623,
+      "year2010": 40944,
+      "year2021": 41103
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Königswinter",
+    "residents": {
+      "year1970": 31357,
+      "year1980": 34983,
+      "year1990": 35013,
+      "year2000": 38891,
+      "year2010": 40771,
+      "year2021": 41065
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Coburg",
+    "residents": {
+      "year1970": 42671,
+      "year1980": 45633,
+      "year1990": 44246,
+      "year2000": 42756,
+      "year2010": 41076,
+      "year2021": 40955
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Kirchheim unter Teck",
+    "residents": {
+      "year1970": 28921,
+      "year1980": 32136,
+      "year1990": 35842,
+      "year2000": 38796,
+      "year2010": 39859,
+      "year2021": 40954
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Nürtingen",
+    "residents": {
+      "year1970": 21432,
+      "year1980": 35680,
+      "year1990": 38337,
+      "year2000": 39040,
+      "year2010": 40364,
+      "year2021": 40885
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Hückelhoven11",
+    "residents": {
+      "year1970": 24853,
+      "year1980": 35196,
+      "year1990": 34816,
+      "year2000": 38970,
+      "year2010": 39215,
+      "year2021": 40712
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bensheim",
+    "residents": {
+      "year1970": 27675,
+      "year1980": 32964,
+      "year1990": 35056,
+      "year2000": 38557,
+      "year2010": 39729,
+      "year2021": 40629
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Nordhausen",
+    "residents": {
+      "year1970": 44547,
+      "year1980": 47038,
+      "year1990": 46422,
+      "year2000": 45633,
+      "year2010": 44296,
+      "year2021": 40563
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Germering",
+    "residents": {
+      "year1970": 16444,
+      "year1980": 34788,
+      "year1990": 36034,
+      "year2000": 36348,
+      "year2010": 37780,
+      "year2021": 40461
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Lemgo",
+    "residents": {
+      "year1970": 38984,
+      "year1980": 39864,
+      "year1990": 39485,
+      "year2000": 41995,
+      "year2010": 41424,
+      "year2021": 40345
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Neumarkt in der Oberpfalz",
+    "residents": {
+      "year1970": 18852,
+      "year1980": 30477,
+      "year1990": 35551,
+      "year2000": 39307,
+      "year2010": 39163,
+      "year2021": 40274
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Buchholz in der Nordheide",
+    "residents": {
+      "year1970": 13996,
+      "year1980": 28521,
+      "year1990": 31489,
+      "year2000": 35916,
+      "year2010": 38735,
+      "year2021": 40164
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Buxtehude",
+    "residents": {
+      "year1970": 22799,
+      "year1980": 31631,
+      "year1990": 32276,
+      "year2000": 36699,
+      "year2010": 39748,
+      "year2021": 40139
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Leinfelden-Echterdingen13",
+    "residents": {
+      "year1970": 12488,
+      "year1980": 35263,
+      "year1990": 34940,
+      "year2000": 35667,
+      "year2010": 37222,
+      "year2021": 40100
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Pirmasens",
+    "residents": {
+      "year1970": 55211,
+      "year1980": 49876,
+      "year1990": 47680,
+      "year2000": 45212,
+      "year2010": 40384,
+      "year2021": 40054
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Löhne",
+    "residents": {
+      "year1970": 36860,
+      "year1980": 37147,
+      "year1990": 38557,
+      "year2000": 41421,
+      "year2010": 40199,
+      "year2021": 39977
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Weißenfels",
+    "residents": {
+      "year1970": 46223,
+      "year1980": 39860,
+      "year1990": 36865,
+      "year2000": 31946,
+      "year2010": 41434,
+      "year2021": 39745
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Freiberg",
+    "residents": {
+      "year1970": 50362,
+      "year1980": 51373,
+      "year1990": 48609,
+      "year2000": 45428,
+      "year2010": 41342,
+      "year2021": 39721
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Hofheim am Taunus",
+    "residents": {
+      "year1970": 18705,
+      "year1980": 33197,
+      "year1990": 35277,
+      "year2000": 37441,
+      "year2010": 38253,
+      "year2021": 39704
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Ahaus",
+    "residents": {
+      "year1970": 15986,
+      "year1980": 27988,
+      "year1990": 31202,
+      "year2000": 37279,
+      "year2010": 38952,
+      "year2021": 39658
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schorndorf",
+    "residents": {
+      "year1970": 20979,
+      "year1980": 33631,
+      "year1990": 37687,
+      "year2000": 38645,
+      "year2010": 39236,
+      "year2021": 39642
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Völklingen",
+    "residents": {
+      "year1970": 39423,
+      "year1980": 44800,
+      "year1990": 43751,
+      "year2000": 42990,
+      "year2010": 39626,
+      "year2021": 39428
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Ostfildern14",
+    "residents": {
+      "year1970": 11371,
+      "year1980": 28748,
+      "year1990": 28678,
+      "year2000": 30460,
+      "year2010": 36163,
+      "year2021": 39376
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Freital",
+    "residents": {
+      "year1970": 42103,
+      "year1980": 46149,
+      "year1990": 40033,
+      "year2000": 40129,
+      "year2010": 39275,
+      "year2021": 39316
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Maintal15",
+    "residents": {
+      "year1970": 16429,
+      "year1980": 36916,
+      "year1990": 36336,
+      "year2000": 38179,
+      "year2010": 37962,
+      "year2021": 39287
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Ettlingen",
+    "residents": {
+      "year1970": 21548,
+      "year1980": 36995,
+      "year1990": 37759,
+      "year2000": 38433,
+      "year2010": 38553,
+      "year2021": 39278
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Mettmann",
+    "residents": {
+      "year1970": 30623,
+      "year1980": 36676,
+      "year1990": 38998,
+      "year2000": 38708,
+      "year2010": 39300,
+      "year2021": 38808
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Niederkassel",
+    "residents": {
+      "year1970": 20616,
+      "year1980": 25996,
+      "year1990": 29240,
+      "year2000": 34613,
+      "year2010": 37552,
+      "year2021": 38694
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Halberstadt",
+    "residents": {
+      "year1970": 46724,
+      "year1980": 47834,
+      "year1990": 45364,
+      "year2000": 41417,
+      "year2010": 42605,
+      "year2021": 38682
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Langen",
+    "residents": {
+      "year1970": 29891,
+      "year1980": 28826,
+      "year1990": 31992,
+      "year2000": 35208,
+      "year2010": 35570,
+      "year2021": 38651
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Neu-Isenburg",
+    "residents": {
+      "year1970": 34873,
+      "year1980": 35816,
+      "year1990": 35768,
+      "year2000": 35524,
+      "year2010": 36034,
+      "year2021": 38532
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Ilmenau",
+    "residents": {
+      "year1970": 19220,
+      "year1980": 26293,
+      "year1990": 28454,
+      "year2000": 27176,
+      "year2010": 26022,
+      "year2021": 38521
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Würselen",
+    "residents": {
+      "year1970": 19903,
+      "year1980": 34847,
+      "year1990": 34406,
+      "year2000": 36323,
+      "year2010": 37693,
+      "year2021": 38480
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Pirna",
+    "residents": {
+      "year1970": 47533,
+      "year1980": 47551,
+      "year1990": 41798,
+      "year2000": 42108,
+      "year2010": 38705,
+      "year2021": 38361
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Stendal",
+    "residents": {
+      "year1970": 36786,
+      "year1980": 44336,
+      "year1990": 48532,
+      "year2000": 39795,
+      "year2010": 42435,
+      "year2021": 38359
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Königs Wusterhausen",
+    "residents": {
+      "year1970": 10435,
+      "year1980": 15005,
+      "year1990": 18103,
+      "year2000": 17262,
+      "year2010": 33981,
+      "year2021": 38283
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Papenburg",
+    "residents": {
+      "year1970": 17305,
+      "year1980": 27571,
+      "year1990": 30078,
+      "year2000": 34096,
+      "year2010": 35032,
+      "year2021": 37885
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Kamp-Lintfort",
+    "residents": {
+      "year1970": 38429,
+      "year1980": 37961,
+      "year1990": 39019,
+      "year2000": 39982,
+      "year2010": 38394,
+      "year2021": 37847
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bautzen",
+    "residents": {
+      "year1970": 43818,
+      "year1980": 48277,
+      "year1990": 48588,
+      "year2000": 43353,
+      "year2010": 40573,
+      "year2021": 37838
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Haltern am See",
+    "residents": {
+      "year1970": 15272,
+      "year1980": 30965,
+      "year1990": 34025,
+      "year2000": 36776,
+      "year2010": 37763,
+      "year2021": 37808
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Greven",
+    "residents": {
+      "year1970": 26653,
+      "year1980": 28743,
+      "year1990": 31010,
+      "year2000": 34217,
+      "year2010": 36044,
+      "year2021": 37700
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Wesseling",
+    "residents": {
+      "year1970": 25948,
+      "year1980": 29005,
+      "year1990": 30710,
+      "year2000": 34931,
+      "year2010": 35116,
+      "year2021": 37519
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Backnang",
+    "residents": {
+      "year1970": 27704,
+      "year1980": 29149,
+      "year1990": 31687,
+      "year2000": 34465,
+      "year2010": 35395,
+      "year2021": 37460
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Kehl",
+    "residents": {
+      "year1970": 16056,
+      "year1980": 29924,
+      "year1990": 30389,
+      "year2000": 33359,
+      "year2010": 34789,
+      "year2021": 37378
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Warendorf",
+    "residents": {
+      "year1970": 19043,
+      "year1980": 33147,
+      "year1990": 35092,
+      "year2000": 38688,
+      "year2010": 38134,
+      "year2021": 37146
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Fürstenfeldbruck",
+    "residents": {
+      "year1970": 22728,
+      "year1980": 31887,
+      "year1990": 31040,
+      "year2000": 32405,
+      "year2010": 34152,
+      "year2021": 37063
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bitterfeld-Wolfen8",
+    "residents": {
+      "year1970": 29232,
+      "year1980": 22933,
+      "year1990": 17988,
+      "year2000": 16507,
+      "year2010": 45171,
+      "year2021": 37047
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Beckum",
+    "residents": {
+      "year1970": 27508,
+      "year1980": 37899,
+      "year1990": 36772,
+      "year2000": 37916,
+      "year2010": 36736,
+      "year2021": 36737
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Tuttlingen",
+    "residents": {
+      "year1970": 26566,
+      "year1980": 31531,
+      "year1990": 33543,
+      "year2000": 34693,
+      "year2010": 34282,
+      "year2021": 36672
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Erding",
+    "residents": {
+      "year1970": 10838,
+      "year1980": 23770,
+      "year1990": 25154,
+      "year2000": 31165,
+      "year2010": 34514,
+      "year2021": 36414
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Coesfeld",
+    "residents": {
+      "year1970": 26412,
+      "year1980": 31063,
+      "year1990": 32739,
+      "year2000": 35947,
+      "year2010": 36345,
+      "year2021": 36382
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Cloppenburg",
+    "residents": {
+      "year1970": 18452,
+      "year1980": 20912,
+      "year1990": 23574,
+      "year2000": 29897,
+      "year2010": 32571,
+      "year2021": 36183
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Suhl",
+    "residents": {
+      "year1970": 31661,
+      "year1980": 48429,
+      "year1990": 54731,
+      "year2000": 48025,
+      "year2010": 38776,
+      "year2021": 36054
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Emsdetten",
+    "residents": {
+      "year1970": 29053,
+      "year1980": 31026,
+      "year1990": 31930,
+      "year2000": 35230,
+      "year2010": 35523,
+      "year2021": 35927
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Voerde (Niederrhein)",
+    "residents": {
+      "year1970": 28241,
+      "year1980": 31588,
+      "year1990": 36415,
+      "year2000": 38979,
+      "year2010": 37406,
+      "year2021": 35889
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Mühlhausen/Thüringen",
+    "residents": {
+      "year1970": 45190,
+      "year1980": 43544,
+      "year1990": 41075,
+      "year2000": 38695,
+      "year2010": 35978,
+      "year2021": 35797
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Limburg an der Lahn",
+    "residents": {
+      "year1970": 15250,
+      "year1980": 28573,
+      "year1990": 29912,
+      "year2000": 33572,
+      "year2010": 33400,
+      "year2021": 35783
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Sinsheim",
+    "residents": {
+      "year1970": 8056,
+      "year1980": 26658,
+      "year1990": 29307,
+      "year2000": 33992,
+      "year2010": 35392,
+      "year2021": 35707
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Porta Westfalica16",
+    "residents": {
+      "year1970": 4544,
+      "year1980": 34538,
+      "year1990": 35061,
+      "year2000": 36182,
+      "year2010": 35122,
+      "year2021": 35658
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Winsen (Luhe)",
+    "residents": {
+      "year1970": 12067,
+      "year1980": 25477,
+      "year1990": 27338,
+      "year2000": 31801,
+      "year2010": 34247,
+      "year2021": 35630
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Ingelheim am Rhein",
+    "residents": {
+      "year1970": 18939,
+      "year1980": 19596,
+      "year1990": 21153,
+      "year2000": 24678,
+      "year2010": 24152,
+      "year2021": 35486
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Meppen",
+    "residents": {
+      "year1970": 18697,
+      "year1980": 28135,
+      "year1990": 30508,
+      "year2000": 33412,
+      "year2010": 34944,
+      "year2021": 35415
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Leer",
+    "residents": {
+      "year1970": 30463,
+      "year1980": 31303,
+      "year1990": 31375,
+      "year2000": 33849,
+      "year2010": 34301,
+      "year2021": 35078
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Sankt Ingbert",
+    "residents": {
+      "year1970": 29295,
+      "year1980": 41844,
+      "year1990": 40931,
+      "year2000": 39971,
+      "year2010": 37195,
+      "year2021": 34971
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Bad Vilbel",
+    "residents": {
+      "year1970": 18010,
+      "year1980": 25931,
+      "year1990": 25075,
+      "year2000": 29716,
+      "year2010": 31822,
+      "year2021": 34905
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Datteln",
+    "residents": {
+      "year1970": 35239,
+      "year1980": 37193,
+      "year1990": 36876,
+      "year2000": 37293,
+      "year2010": 35513,
+      "year2021": 34876
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Crailsheim",
+    "residents": {
+      "year1970": 16763,
+      "year1980": 24685,
+      "year1990": 27917,
+      "year2000": 32085,
+      "year2010": 33021,
+      "year2021": 34862
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Lage",
+    "residents": {
+      "year1970": 31063,
+      "year1980": 32301,
+      "year1990": 34317,
+      "year2000": 36073,
+      "year2010": 35169,
+      "year2021": 34686
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Steinfurt17",
+    "residents": {
+      "year1970": 17357,
+      "year1980": 32303,
+      "year1990": 31484,
+      "year2000": 33955,
+      "year2010": 33901,
+      "year2021": 34645
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Mörfelden-Walldorf18",
+    "residents": {
+      "year1970": 11923,
+      "year1980": 30182,
+      "year1990": 29538,
+      "year2000": 32173,
+      "year2010": 34035,
+      "year2021": 34641
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Balingen",
+    "residents": {
+      "year1970": 14138,
+      "year1980": 29738,
+      "year1990": 31738,
+      "year2000": 33632,
+      "year2010": 33959,
+      "year2021": 34604
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Goch",
+    "residents": {
+      "year1970": 27617,
+      "year1980": 28778,
+      "year1990": 29843,
+      "year2000": 32675,
+      "year2010": 34106,
+      "year2021": 34593
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Kempen",
+    "residents": {
+      "year1970": 39943,
+      "year1980": 30169,
+      "year1990": 33809,
+      "year2000": 36019,
+      "year2010": 35890,
+      "year2021": 34562
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Dietzenbach",
+    "residents": {
+      "year1970": 13396,
+      "year1980": 25248,
+      "year1990": 29784,
+      "year2000": 32982,
+      "year2010": 33186,
+      "year2021": 34517
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Wermelskirchen",
+    "residents": {
+      "year1970": 26810,
+      "year1980": 34737,
+      "year1990": 35865,
+      "year2000": 37016,
+      "year2010": 35437,
+      "year2021": 34480
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Deggendorf",
+    "residents": {
+      "year1970": 19356,
+      "year1980": 30649,
+      "year1990": 30214,
+      "year2000": 31219,
+      "year2010": 31661,
+      "year2021": 34454
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Saarlouis",
+    "residents": {
+      "year1970": 39016,
+      "year1980": 38733,
+      "year1990": 38160,
+      "year2000": 38182,
+      "year2010": 37136,
+      "year2021": 34445
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Barsinghausen",
+    "residents": {
+      "year1970": 21042,
+      "year1980": 32962,
+      "year1990": 33391,
+      "year2000": 34497,
+      "year2010": 33618,
+      "year2021": 34327
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Seelze",
+    "residents": {
+      "year1970": 10321,
+      "year1980": 30336,
+      "year1990": 30974,
+      "year2000": 33192,
+      "year2010": 32782,
+      "year2021": 34271
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Ahrensburg",
+    "residents": {
+      "year1970": 25501,
+      "year1980": 26065,
+      "year1990": 27418,
+      "year2000": 29117,
+      "year2010": 31276,
+      "year2021": 34201
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Viernheim",
+    "residents": {
+      "year1970": 27753,
+      "year1980": 29590,
+      "year1990": 30527,
+      "year2000": 32427,
+      "year2010": 32601,
+      "year2021": 34189
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Wedel",
+    "residents": {
+      "year1970": 29590,
+      "year1980": 30493,
+      "year1990": 30752,
+      "year2000": 32060,
+      "year2010": 32203,
+      "year2021": 34151
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Zweibrücken",
+    "residents": {
+      "year1970": 32814,
+      "year1980": 34923,
+      "year1990": 33918,
+      "year2000": 35719,
+      "year2010": 33944,
+      "year2021": 34091
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Korschenbroich",
+    "residents": {
+      "year1970": 8324,
+      "year1980": 26169,
+      "year1990": 29227,
+      "year2000": 33782,
+      "year2010": 33078,
+      "year2021": 33786
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Radebeul",
+    "residents": {
+      "year1970": 40635,
+      "year1980": 34129,
+      "year1990": 31115,
+      "year2000": 32246,
+      "year2010": 33708,
+      "year2021": 33743
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Geldern",
+    "residents": {
+      "year1970": 22524,
+      "year1980": 26230,
+      "year1990": 29245,
+      "year2000": 33074,
+      "year2010": 33575,
+      "year2021": 33733
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Hemer",
+    "residents": {
+      "year1970": 24473,
+      "year1980": 32745,
+      "year1990": 34412,
+      "year2000": 37156,
+      "year2010": 37735,
+      "year2021": 33708
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Biberach an der Riß",
+    "residents": {
+      "year1970": 25542,
+      "year1980": 28284,
+      "year1990": 29635,
+      "year2000": 31324,
+      "year2010": 32394,
+      "year2021": 33708
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Kornwestheim",
+    "residents": {
+      "year1970": 28830,
+      "year1980": 27037,
+      "year1990": 29198,
+      "year2000": 29831,
+      "year2010": 31292,
+      "year2021": 33681
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Merseburg",
+    "residents": {
+      "year1970": 55857,
+      "year1980": 50346,
+      "year1990": 42905,
+      "year2000": 37127,
+      "year2010": 35419,
+      "year2021": 33641
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Uelzen",
+    "residents": {
+      "year1970": 24598,
+      "year1980": 36261,
+      "year1990": 35466,
+      "year2000": 35065,
+      "year2010": 34250,
+      "year2021": 33629
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Stuhr(*)",
+    "residents": {
+      "year1970": 6779,
+      "year1980": 26418,
+      "year1990": 27457,
+      "year2000": 30799,
+      "year2010": 33344,
+      "year2021": 33494
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Vechta",
+    "residents": {
+      "year1970": 16216,
+      "year1980": 23053,
+      "year1990": 23300,
+      "year2000": 27753,
+      "year2010": 31516,
+      "year2021": 33309
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Rheinfelden (Baden)",
+    "residents": {
+      "year1970": 16469,
+      "year1980": 27415,
+      "year1990": 29148,
+      "year2000": 31642,
+      "year2010": 32330,
+      "year2021": 33045
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bad Nauheim",
+    "residents": {
+      "year1970": 14493,
+      "year1980": 26979,
+      "year1990": 28599,
+      "year2000": 30199,
+      "year2010": 31176,
+      "year2021": 32777
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Lampertheim",
+    "residents": {
+      "year1970": 24362,
+      "year1980": 31449,
+      "year1990": 30800,
+      "year2000": 32231,
+      "year2010": 31337,
+      "year2021": 32682
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Jülich",
+    "residents": {
+      "year1970": 19754,
+      "year1980": 30449,
+      "year1990": 31285,
+      "year2000": 33414,
+      "year2010": 33060,
+      "year2021": 32635
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Forchheim",
+    "residents": {
+      "year1970": 21862,
+      "year1980": 29021,
+      "year1990": 29872,
+      "year2000": 30665,
+      "year2010": 30396,
+      "year2021": 32433
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Achim",
+    "residents": {
+      "year1970": 9746,
+      "year1980": 27680,
+      "year1990": 28974,
+      "year2000": 29735,
+      "year2010": 30143,
+      "year2021": 32379
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Delbrück",
+    "residents": {
+      "year1970": 5599,
+      "year1980": 21417,
+      "year1990": 24247,
+      "year2000": 29212,
+      "year2010": 30047,
+      "year2021": 32266
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Fürstenwalde/Spree",
+    "residents": {
+      "year1970": 30841,
+      "year1980": 34515,
+      "year1990": 34413,
+      "year2000": 34044,
+      "year2010": 32468,
+      "year2021": 32120
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Bramsche",
+    "residents": {
+      "year1970": 10635,
+      "year1980": 23747,
+      "year1990": 28120,
+      "year2000": 30633,
+      "year2010": 30986,
+      "year2021": 32103
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Wernigerode",
+    "residents": {
+      "year1970": 32730,
+      "year1980": 35464,
+      "year1990": 35698,
+      "year2000": 35013,
+      "year2010": 34383,
+      "year2021": 32027
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Bernburg (Saale)",
+    "residents": {
+      "year1970": 45367,
+      "year1980": 42262,
+      "year1990": 39901,
+      "year2000": 33825,
+      "year2010": 35516,
+      "year2021": 32000
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Herrenberg",
+    "residents": {
+      "year1970": 12507,
+      "year1980": 25422,
+      "year1990": 27344,
+      "year2000": 29907,
+      "year2010": 31292,
+      "year2021": 31918
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Itzehoe",
+    "residents": {
+      "year1970": 36150,
+      "year1980": 33613,
+      "year1990": 32817,
+      "year2000": 33549,
+      "year2010": 32368,
+      "year2021": 31855
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Naumburg (Saale)",
+    "residents": {
+      "year1970": 37900,
+      "year1980": 34013,
+      "year1990": 29724,
+      "year2000": 30399,
+      "year2010": 34294,
+      "year2021": 31815
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Georgsmarienhütte",
+    "residents": {
+      "year1970": 28781,
+      "year1980": 31033,
+      "year1990": 31910,
+      "year2000": 32872,
+      "year2010": 32057,
+      "year2021": 31790
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Radolfzell am Bodensee",
+    "residents": {
+      "year1970": 15660,
+      "year1980": 23709,
+      "year1990": 26476,
+      "year2000": 28580,
+      "year2010": 30782,
+      "year2021": 31582
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Ganderkesee(*)",
+    "residents": {
+      "year1970": 17626,
+      "year1980": 25135,
+      "year1990": 27104,
+      "year2000": 30207,
+      "year2010": 30941,
+      "year2021": 31578
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Nienburg/Weser",
+    "residents": {
+      "year1970": 22664,
+      "year1980": 29884,
+      "year1990": 30710,
+      "year2000": 32611,
+      "year2010": 31924,
+      "year2021": 31570
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Geesthacht",
+    "residents": {
+      "year1970": 23345,
+      "year1980": 25303,
+      "year1990": 26246,
+      "year2000": 29106,
+      "year2010": 29228,
+      "year2021": 31539
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Oer-Erkenschwick",
+    "residents": {
+      "year1970": 24360,
+      "year1980": 27329,
+      "year1990": 28222,
+      "year2000": 30686,
+      "year2010": 30312,
+      "year2021": 31395
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Hoyerswerda",
+    "residents": {
+      "year1970": 59144,
+      "year1980": 70705,
+      "year1990": 64888,
+      "year2000": 50203,
+      "year2010": 37379,
+      "year2021": 31326
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Geestland19",
+    "residents": {
+      "year1970": 13067,
+      "year1980": 14919,
+      "year1990": 15624,
+      "year2000": 18163,
+      "year2010": 18477,
+      "year2021": 31304
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Weyhe(*) 20",
+    "residents": {
+      "year1970": 8247,
+      "year1980": 22890,
+      "year1990": 26050,
+      "year2000": 30240,
+      "year2010": 30362,
+      "year2021": 31162
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Burgdorf",
+    "residents": {
+      "year1970": 18102,
+      "year1980": 28196,
+      "year1990": 29022,
+      "year2000": 30314,
+      "year2010": 29886,
+      "year2021": 31083
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Neuruppin",
+    "residents": {
+      "year1970": 22369,
+      "year1980": 25544,
+      "year1990": 26925,
+      "year2000": 32598,
+      "year2010": 31599,
+      "year2021": 31002
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Rheinberg",
+    "residents": {
+      "year1970": 12070,
+      "year1980": 26332,
+      "year1990": 27886,
+      "year2000": 31193,
+      "year2010": 31587,
+      "year2021": 30863
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Emmerich am Rhein",
+    "residents": {
+      "year1970": 24402,
+      "year1980": 29336,
+      "year1990": 28322,
+      "year2000": 28899,
+      "year2010": 29571,
+      "year2021": 30854
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Kreuztal",
+    "residents": {
+      "year1970": 28952,
+      "year1980": 30219,
+      "year1990": 30885,
+      "year2000": 32099,
+      "year2010": 30995,
+      "year2021": 30787
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Werl",
+    "residents": {
+      "year1970": 24619,
+      "year1980": 25808,
+      "year1990": 28554,
+      "year2000": 31623,
+      "year2010": 31655,
+      "year2021": 30736
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Altenburg",
+    "residents": {
+      "year1970": 46799,
+      "year1980": 55372,
+      "year1990": 48926,
+      "year2000": 41290,
+      "year2010": 34972,
+      "year2021": 30670
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Gevelsberg",
+    "residents": {
+      "year1970": 33667,
+      "year1980": 31485,
+      "year1990": 33217,
+      "year2000": 33621,
+      "year2010": 31518,
+      "year2021": 30669
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lohmar",
+    "residents": {
+      "year1970": 17870,
+      "year1980": 23496,
+      "year1990": 27098,
+      "year2000": 30659,
+      "year2010": 31129,
+      "year2021": 30452
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Osterholz-Scharmbeck",
+    "residents": {
+      "year1970": 15273,
+      "year1980": 23632,
+      "year1990": 24705,
+      "year2000": 31206,
+      "year2010": 30198,
+      "year2021": 30438
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Einbeck",
+    "residents": {
+      "year1970": 18609,
+      "year1980": 28867,
+      "year1990": 28988,
+      "year2000": 28752,
+      "year2010": 26426,
+      "year2021": 30420
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Walsrode",
+    "residents": {
+      "year1970": 14318,
+      "year1980": 22650,
+      "year1990": 22750,
+      "year2000": 24053,
+      "year2010": 23978,
+      "year2021": 30370
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Ennepetal",
+    "residents": {
+      "year1970": 37137,
+      "year1980": 35729,
+      "year1990": 34270,
+      "year2000": 33725,
+      "year2010": 30486,
+      "year2021": 30306
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Haan",
+    "residents": {
+      "year1970": 20821,
+      "year1980": 28571,
+      "year1990": 29860,
+      "year2000": 29677,
+      "year2010": 29149,
+      "year2021": 30298
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Weil am Rhein",
+    "residents": {
+      "year1970": 20657,
+      "year1980": 26076,
+      "year1990": 27082,
+      "year2000": 28762,
+      "year2010": 29918,
+      "year2021": 30251
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Taunusstein",
+    "residents": {
+      "year1970": 14121,
+      "year1980": 25659,
+      "year1990": 26977,
+      "year2000": 28745,
+      "year2010": 28963,
+      "year2021": 30221
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Andernach",
+    "residents": {
+      "year1970": 27139,
+      "year1980": 27135,
+      "year1990": 28030,
+      "year2000": 29319,
+      "year2010": 29542,
+      "year2021": 30126
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Bad Hersfeld",
+    "residents": {
+      "year1970": 23247,
+      "year1980": 28248,
+      "year1990": 30249,
+      "year2000": 30778,
+      "year2010": 30087,
+      "year2021": 30101
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Schönebeck",
+    "residents": {
+      "year1970": 46234,
+      "year1980": 44802,
+      "year1990": 42142,
+      "year2000": 36397,
+      "year2010": 33888,
+      "year2021": 30067
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Gaggenau",
+    "residents": {
+      "year1970": 21124,
+      "year1980": 28533,
+      "year1990": 28761,
+      "year2000": 29721,
+      "year2010": 29032,
+      "year2021": 30059
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Friedberg",
+    "residents": {
+      "year1970": 12961,
+      "year1980": 24907,
+      "year1990": 26818,
+      "year2000": 29054,
+      "year2010": 28947,
+      "year2021": 30056
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bretten",
+    "residents": {
+      "year1970": 11543,
+      "year1980": 22937,
+      "year1990": 24264,
+      "year2000": 27172,
+      "year2010": 28466,
+      "year2021": 29927
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Schwedt/Oder",
+    "residents": {
+      "year1970": 34292,
+      "year1980": 54809,
+      "year1990": 50633,
+      "year2000": 39683,
+      "year2010": 34035,
+      "year2021": 29887
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Neuburg an der Donau",
+    "residents": {
+      "year1970": 18808,
+      "year1980": 24097,
+      "year1990": 25474,
+      "year2000": 27816,
+      "year2010": 28197,
+      "year2021": 29830
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Friedberg (Hessen)",
+    "residents": {
+      "year1970": 16782,
+      "year1980": 24233,
+      "year1990": 24633,
+      "year2000": 26751,
+      "year2010": 27962,
+      "year2021": 29674
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Wedemark(*) 21",
+    "residents": {
+      "year1970": 4219,
+      "year1980": 23530,
+      "year1990": 24758,
+      "year2000": 28373,
+      "year2010": 29063,
+      "year2021": 29612
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Merzig",
+    "residents": {
+      "year1970": 12161,
+      "year1980": 29714,
+      "year1990": 30031,
+      "year2000": 30869,
+      "year2010": 30355,
+      "year2021": 29609
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Meschede",
+    "residents": {
+      "year1970": 15727,
+      "year1980": 31350,
+      "year1990": 31715,
+      "year2000": 32679,
+      "year2010": 30823,
+      "year2021": 29608
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Rietberg",
+    "residents": {
+      "year1970": 20572,
+      "year1980": 23606,
+      "year1990": 24138,
+      "year2000": 28029,
+      "year2010": 28868,
+      "year2021": 29564
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Waltrop",
+    "residents": {
+      "year1970": 25743,
+      "year1980": 27045,
+      "year1990": 29354,
+      "year2000": 30406,
+      "year2010": 29636,
+      "year2021": 29429
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Werne",
+    "residents": {
+      "year1970": 21123,
+      "year1980": 26656,
+      "year1990": 29484,
+      "year2000": 30825,
+      "year2010": 29901,
+      "year2021": 29355
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bad Zwischenahn(*) 22",
+    "residents": {
+      "year1970": 20798,
+      "year1980": 23583,
+      "year1990": 23828,
+      "year2000": 25536,
+      "year2010": 27537,
+      "year2021": 29351
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Landsberg am Lech",
+    "residents": {
+      "year1970": 14260,
+      "year1980": 18309,
+      "year1990": 21039,
+      "year2000": 25564,
+      "year2010": 28121,
+      "year2021": 29344
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Tönisvorst",
+    "residents": {
+      "year1970": 19872,
+      "year1980": 22228,
+      "year1990": 24844,
+      "year2000": 30347,
+      "year2010": 29699,
+      "year2021": 29257
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schwandorf",
+    "residents": {
+      "year1970": 16190,
+      "year1980": 27166,
+      "year1990": 26393,
+      "year2000": 27820,
+      "year2010": 27736,
+      "year2021": 29254
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Oelde",
+    "residents": {
+      "year1970": 21123,
+      "year1980": 27579,
+      "year1990": 27759,
+      "year2000": 29227,
+      "year2010": 29276,
+      "year2021": 29210
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Vaihingen an der Enz",
+    "residents": {
+      "year1970": 7850,
+      "year1980": 22907,
+      "year1990": 24461,
+      "year2000": 27578,
+      "year2010": 28833,
+      "year2021": 29154
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Güstrow",
+    "residents": {
+      "year1970": 37428,
+      "year1980": 37169,
+      "year1990": 37513,
+      "year2000": 32323,
+      "year2010": 30018,
+      "year2021": 29026
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Northeim",
+    "residents": {
+      "year1970": 21850,
+      "year1980": 32170,
+      "year1990": 31381,
+      "year2000": 31691,
+      "year2010": 29431,
+      "year2021": 28981
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Rendsburg",
+    "residents": {
+      "year1970": 34820,
+      "year1980": 32548,
+      "year1990": 31170,
+      "year2000": 29321,
+      "year2010": 28217,
+      "year2021": 28977
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Springe",
+    "residents": {
+      "year1970": 12858,
+      "year1980": 30368,
+      "year1990": 29752,
+      "year2000": 29897,
+      "year2010": 29301,
+      "year2021": 28948
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Kelkheim (Taunus)",
+    "residents": {
+      "year1970": 16545,
+      "year1980": 27089,
+      "year1990": 26203,
+      "year2000": 26755,
+      "year2010": 27883,
+      "year2021": 28913
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Mühlheim am Main",
+    "residents": {
+      "year1970": 20820,
+      "year1980": 24490,
+      "year1990": 24303,
+      "year2000": 26082,
+      "year2010": 26881,
+      "year2021": 28902
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Unterschleißheim",
+    "residents": {
+      "year1970": 7019,
+      "year1980": 15897,
+      "year1990": 24180,
+      "year2000": 25633,
+      "year2010": 26416,
+      "year2021": 28896
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Riesa",
+    "residents": {
+      "year1970": 49960,
+      "year1980": 52540,
+      "year1990": 45440,
+      "year2000": 39367,
+      "year2010": 34013,
+      "year2021": 28850
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Bühl",
+    "residents": {
+      "year1970": 10013,
+      "year1980": 22307,
+      "year1990": 24667,
+      "year2000": 28496,
+      "year2010": 29452,
+      "year2021": 28833
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Saalfeld/Saale",
+    "residents": {
+      "year1970": 33643,
+      "year1980": 34430,
+      "year1990": 32988,
+      "year2000": 29511,
+      "year2010": 26755,
+      "year2021": 28772
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Blankenfelde-Mahlow(*) 25",
+    "residents": {
+      "year1970": 7192,
+      "year1980": 7383,
+      "year1990": 7820,
+      "year2000": 10241,
+      "year2010": 25718,
+      "year2021": 28761
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Rösrath",
+    "residents": {
+      "year1970": 19226,
+      "year1980": 21340,
+      "year1990": 22849,
+      "year2000": 26330,
+      "year2010": 27288,
+      "year2021": 28712
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Winnenden",
+    "residents": {
+      "year1970": 14446,
+      "year1980": 22334,
+      "year1990": 23995,
+      "year2000": 27214,
+      "year2010": 27599,
+      "year2021": 28569
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Schwelm",
+    "residents": {
+      "year1970": 34058,
+      "year1980": 31108,
+      "year1990": 30394,
+      "year2000": 30569,
+      "year2010": 28614,
+      "year2021": 28501
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Höxter",
+    "residents": {
+      "year1970": 32830,
+      "year1980": 32430,
+      "year1990": 33079,
+      "year2000": 33117,
+      "year2010": 31089,
+      "year2021": 28467
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Idar-Oberstein",
+    "residents": {
+      "year1970": 38755,
+      "year1980": 35434,
+      "year1990": 33764,
+      "year2000": 33646,
+      "year2010": 30379,
+      "year2021": 28423
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Rödermark23",
+    "residents": {
+      "year1970": 9257,
+      "year1980": 22002,
+      "year1990": 25018,
+      "year2000": 26049,
+      "year2010": 25926,
+      "year2021": 28361
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Mechernich",
+    "residents": {
+      "year1970": 13233,
+      "year1980": 21673,
+      "year1990": 22755,
+      "year2000": 26003,
+      "year2010": 27154,
+      "year2021": 28327
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Geislingen an der Steige",
+    "residents": {
+      "year1970": 27196,
+      "year1980": 27344,
+      "year1990": 26993,
+      "year2000": 27998,
+      "year2010": 26841,
+      "year2021": 28290
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Reinbek",
+    "residents": {
+      "year1970": 15456,
+      "year1980": 25051,
+      "year1990": 24670,
+      "year2000": 24570,
+      "year2010": 25821,
+      "year2021": 28277
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Wegberg",
+    "residents": {
+      "year1970": 15611,
+      "year1980": 24654,
+      "year1990": 25445,
+      "year2000": 28543,
+      "year2010": 29100,
+      "year2021": 28213
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Emmendingen",
+    "residents": {
+      "year1970": 16462,
+      "year1980": 24740,
+      "year1990": 23590,
+      "year2000": 24919,
+      "year2010": 26874,
+      "year2021": 28207
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Henstedt-Ulzburg(*)",
+    "residents": {
+      "year1970": 10645,
+      "year1980": 18753,
+      "year1990": 21402,
+      "year2000": 24950,
+      "year2010": 27189,
+      "year2021": 28182
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Meißen",
+    "residents": {
+      "year1970": 45609,
+      "year1980": 39619,
+      "year1990": 34575,
+      "year2000": 29398,
+      "year2010": 27545,
+      "year2021": 28080
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Grimma",
+    "residents": {
+      "year1970": 16639,
+      "year1980": 17391,
+      "year1990": 17698,
+      "year2000": 18729,
+      "year2010": 18711,
+      "year2021": 28054
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Hattersheim am Main",
+    "residents": {
+      "year1970": 9435,
+      "year1980": 23670,
+      "year1990": 23675,
+      "year2000": 24752,
+      "year2010": 25680,
+      "year2021": 28040
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Baunatal",
+    "residents": {
+      "year1970": 13077,
+      "year1980": 21366,
+      "year1990": 24941,
+      "year2000": 28020,
+      "year2010": 27642,
+      "year2021": 27906
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Kevelaer",
+    "residents": {
+      "year1970": 20555,
+      "year1980": 21614,
+      "year1990": 23309,
+      "year2000": 27060,
+      "year2010": 28328,
+      "year2021": 27891
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Königsbrunn",
+    "residents": {
+      "year1970": 12973,
+      "year1980": 18006,
+      "year1990": 22035,
+      "year2000": 26539,
+      "year2010": 27406,
+      "year2021": 27888
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Leichlingen (Rheinland)",
+    "residents": {
+      "year1970": 20254,
+      "year1980": 24612,
+      "year1990": 25996,
+      "year2000": 26796,
+      "year2010": 27481,
+      "year2021": 27868
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Geilenkirchen",
+    "residents": {
+      "year1970": 10143,
+      "year1980": 21833,
+      "year1990": 22808,
+      "year2000": 27826,
+      "year2010": 28253,
+      "year2021": 27836
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Verden (Aller)",
+    "residents": {
+      "year1970": 17014,
+      "year1980": 24261,
+      "year1990": 24589,
+      "year2000": 27082,
+      "year2010": 26802,
+      "year2021": 27782
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Ludwigsfelde",
+    "residents": {
+      "year1970": 16738,
+      "year1980": 20604,
+      "year1990": 21665,
+      "year2000": 23031,
+      "year2010": 24044,
+      "year2021": 27658
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Olching",
+    "residents": {
+      "year1970": 9255,
+      "year1980": 18981,
+      "year1990": 20702,
+      "year2000": 22796,
+      "year2010": 25018,
+      "year2021": 27653
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Neukirchen-Vluyn",
+    "residents": {
+      "year1970": 13973,
+      "year1980": 25519,
+      "year1990": 26591,
+      "year2000": 28525,
+      "year2010": 27579,
+      "year2021": 27613
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Sundern (Sauerland)",
+    "residents": {
+      "year1970": 9525,
+      "year1980": 25689,
+      "year1990": 27250,
+      "year2000": 29867,
+      "year2010": 28730,
+      "year2021": 27511
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lohne (Oldenburg)",
+    "residents": {
+      "year1970": 15942,
+      "year1980": 18601,
+      "year1990": 20106,
+      "year2000": 24564,
+      "year2010": 26047,
+      "year2021": 27387
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Teltow",
+    "residents": {
+      "year1970": 15330,
+      "year1980": 15260,
+      "year1990": 14859,
+      "year2000": 17938,
+      "year2010": 22538,
+      "year2021": 27371
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Griesheim",
+    "residents": {
+      "year1970": 16791,
+      "year1980": 20243,
+      "year1990": 21187,
+      "year2000": 24398,
+      "year2010": 26317,
+      "year2021": 27357
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Baesweiler",
+    "residents": {
+      "year1970": 13764,
+      "year1980": 23509,
+      "year1990": 24442,
+      "year2000": 27434,
+      "year2010": 27898,
+      "year2021": 27351
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Arnstadt",
+    "residents": {
+      "year1970": 28990,
+      "year1980": 29965,
+      "year1990": 28743,
+      "year2000": 27220,
+      "year2010": 25000,
+      "year2021": 27330
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Garmisch-Partenkirchen(*)",
+    "residents": {
+      "year1970": 27101,
+      "year1980": 27828,
+      "year1990": 26837,
+      "year2000": 26364,
+      "year2010": 26068,
+      "year2021": 27249
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Wetter (Ruhr)",
+    "residents": {
+      "year1970": 30756,
+      "year1980": 29840,
+      "year1990": 28880,
+      "year2000": 29851,
+      "year2010": 28113,
+      "year2021": 27236
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Overath",
+    "residents": {
+      "year1970": 15636,
+      "year1980": 21476,
+      "year1990": 23902,
+      "year2000": 26115,
+      "year2010": 26990,
+      "year2021": 27148
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schloß Holte-Stukenbrock",
+    "residents": {
+      "year1970": 16003,
+      "year1980": 20425,
+      "year1990": 21402,
+      "year2000": 25562,
+      "year2010": 26156,
+      "year2021": 27120
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Strausberg",
+    "residents": {
+      "year1970": 19434,
+      "year1980": 24169,
+      "year1990": 28523,
+      "year2000": 26221,
+      "year2010": 26206,
+      "year2021": 27119
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Leimen",
+    "residents": {
+      "year1970": 9318,
+      "year1980": 17043,
+      "year1990": 20361,
+      "year2000": 25850,
+      "year2010": 27225,
+      "year2021": 27016
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Zeitz",
+    "residents": {
+      "year1970": 46864,
+      "year1980": 44142,
+      "year1990": 40012,
+      "year2000": 32227,
+      "year2010": 31556,
+      "year2021": 27003
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Wangen im Allgäu",
+    "residents": {
+      "year1970": 14462,
+      "year1980": 23259,
+      "year1990": 24589,
+      "year2000": 25982,
+      "year2010": 27461,
+      "year2021": 26956
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Weinstadt24",
+    "residents": {
+      "year1970": 5111,
+      "year1980": 23244,
+      "year1990": 23999,
+      "year2000": 25484,
+      "year2010": 26421,
+      "year2021": 26902
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Hamminkeln",
+    "residents": {
+      "year1970": 4378,
+      "year1980": 21857,
+      "year1990": 24659,
+      "year2000": 27161,
+      "year2010": 27711,
+      "year2021": 26900
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Rheinbach",
+    "residents": {
+      "year1970": 18824,
+      "year1980": 21841,
+      "year1990": 22990,
+      "year2000": 25943,
+      "year2010": 27392,
+      "year2021": 26831
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Werder (Havel)",
+    "residents": {
+      "year1970": 9765,
+      "year1980": 10404,
+      "year1990": 10722,
+      "year2000": 15115,
+      "year2010": 23017,
+      "year2021": 26767
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Ehingen (Donau)",
+    "residents": {
+      "year1970": 13512,
+      "year1980": 21988,
+      "year1990": 23568,
+      "year2000": 24898,
+      "year2010": 25670,
+      "year2021": 26766
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Butzbach",
+    "residents": {
+      "year1970": 15732,
+      "year1980": 21274,
+      "year1990": 22308,
+      "year2000": 24954,
+      "year2010": 24971,
+      "year2021": 26660
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Hohen Neuendorf",
+    "residents": {
+      "year1970": 9566,
+      "year1980": 9059,
+      "year1990": 8281,
+      "year2000": 18922,
+      "year2010": 24384,
+      "year2021": 26658
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Bad Neuenahr-Ahrweiler",
+    "residents": {
+      "year1970": 23869,
+      "year1980": 26141,
+      "year1990": 25178,
+      "year2000": 27061,
+      "year2010": 27398,
+      "year2021": 26550
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Wiesloch",
+    "residents": {
+      "year1970": 16145,
+      "year1980": 21746,
+      "year1990": 22947,
+      "year2000": 25528,
+      "year2010": 26034,
+      "year2021": 26546
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Zirndorf",
+    "residents": {
+      "year1970": 13388,
+      "year1980": 20978,
+      "year1990": 21494,
+      "year2000": 24950,
+      "year2010": 25965,
+      "year2021": 26534
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Hennigsdorf",
+    "residents": {
+      "year1970": 24542,
+      "year1980": 27185,
+      "year1990": 24387,
+      "year2000": 26306,
+      "year2010": 25909,
+      "year2021": 26515
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Pfaffenhofen an der Ilm",
+    "residents": {
+      "year1970": 9808,
+      "year1980": 15715,
+      "year1990": 19510,
+      "year2000": 22376,
+      "year2010": 24158,
+      "year2021": 26453
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Lauf an der Pegnitz",
+    "residents": {
+      "year1970": 16116,
+      "year1980": 21836,
+      "year1990": 23390,
+      "year2000": 25770,
+      "year2010": 26127,
+      "year2021": 26387
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Heiligenhaus",
+    "residents": {
+      "year1970": 28727,
+      "year1980": 29661,
+      "year1990": 29715,
+      "year2000": 28442,
+      "year2010": 26659,
+      "year2021": 26367
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Heppenheim (Bergstraße)",
+    "residents": {
+      "year1970": 16957,
+      "year1980": 23786,
+      "year1990": 23859,
+      "year2000": 25434,
+      "year2010": 25266,
+      "year2021": 26357
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Remseck am Neckar26",
+    "residents": {
+      "year1970": 4539,
+      "year1980": 16593,
+      "year1990": 17459,
+      "year2000": 20013,
+      "year2010": 23355,
+      "year2021": 26346
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Aschersleben",
+    "residents": {
+      "year1970": 37163,
+      "year1980": 35083,
+      "year1990": 32545,
+      "year2000": 27312,
+      "year2010": 29082,
+      "year2021": 26328
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Neckarsulm",
+    "residents": {
+      "year1970": 18483,
+      "year1980": 21871,
+      "year1990": 22690,
+      "year2000": 27482,
+      "year2010": 26511,
+      "year2021": 26292
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Mühlacker",
+    "residents": {
+      "year1970": 14194,
+      "year1980": 24216,
+      "year1990": 25301,
+      "year2000": 25969,
+      "year2010": 25369,
+      "year2021": 26137
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Groß-Gerau",
+    "residents": {
+      "year1970": 13277,
+      "year1980": 21432,
+      "year1990": 22137,
+      "year2000": 23349,
+      "year2010": 23409,
+      "year2021": 26068
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Selm",
+    "residents": {
+      "year1970": 15552,
+      "year1980": 23762,
+      "year1990": 24891,
+      "year2000": 27240,
+      "year2010": 27001,
+      "year2021": 25983
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Nordenham",
+    "residents": {
+      "year1970": 28207,
+      "year1980": 30311,
+      "year1990": 28773,
+      "year2000": 28183,
+      "year2010": 26826,
+      "year2021": 25959
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Weiterstadt",
+    "residents": {
+      "year1970": 7233,
+      "year1980": 19068,
+      "year1990": 21795,
+      "year2000": 23907,
+      "year2010": 24378,
+      "year2021": 25942
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Achern",
+    "residents": {
+      "year1970": 7596,
+      "year1980": 20543,
+      "year1990": 21382,
+      "year2000": 23463,
+      "year2010": 25014,
+      "year2021": 25776
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bingen am Rhein",
+    "residents": {
+      "year1970": 23627,
+      "year1980": 23528,
+      "year1990": 23853,
+      "year2000": 24710,
+      "year2010": 24276,
+      "year2021": 25757
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Bad Honnef",
+    "residents": {
+      "year1970": 19943,
+      "year1980": 20907,
+      "year1990": 22577,
+      "year2000": 25004,
+      "year2010": 25213,
+      "year2021": 25738
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Kulmbach",
+    "residents": {
+      "year1970": 23786,
+      "year1980": 28226,
+      "year1990": 27871,
+      "year2000": 28258,
+      "year2010": 26768,
+      "year2021": 25724
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Lübbecke",
+    "residents": {
+      "year1970": 11238,
+      "year1980": 21470,
+      "year1990": 23695,
+      "year2000": 25908,
+      "year2010": 25796,
+      "year2021": 25674
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Harsewinkel",
+    "residents": {
+      "year1970": 10415,
+      "year1980": 18403,
+      "year1990": 20135,
+      "year2000": 23639,
+      "year2010": 24072,
+      "year2021": 25575
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lindau (Bodensee)",
+    "residents": {
+      "year1970": 25232,
+      "year1980": 24216,
+      "year1990": 24378,
+      "year2000": 23874,
+      "year2010": 24772,
+      "year2021": 25547
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Schleswig",
+    "residents": {
+      "year1970": 32270,
+      "year1980": 29798,
+      "year1990": 26998,
+      "year2000": 25093,
+      "year2010": 24058,
+      "year2021": 25510
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Friedrichsdorf",
+    "residents": {
+      "year1970": 3930,
+      "year1980": 22657,
+      "year1990": 23392,
+      "year2000": 24282,
+      "year2010": 24685,
+      "year2021": 25450
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Sangerhausen",
+    "residents": {
+      "year1970": 32303,
+      "year1980": 33937,
+      "year1990": 32697,
+      "year2000": 25399,
+      "year2010": 29679,
+      "year2021": 25419
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Rinteln",
+    "residents": {
+      "year1970": 10865,
+      "year1980": 25849,
+      "year1990": 26979,
+      "year2000": 28392,
+      "year2010": 26879,
+      "year2021": 25380
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Unterhaching(*)",
+    "residents": {
+      "year1970": 14460,
+      "year1980": 17041,
+      "year1990": 18313,
+      "year2000": 20427,
+      "year2010": 22774,
+      "year2021": 25379
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Horb am Neckar",
+    "residents": {
+      "year1970": 5001,
+      "year1980": 20668,
+      "year1990": 22541,
+      "year2000": 25154,
+      "year2010": 25603,
+      "year2021": 25379
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "St Wendel",
+    "residents": {
+      "year1970": 10086,
+      "year1980": 26702,
+      "year1990": 27059,
+      "year2000": 27303,
+      "year2010": 26208,
+      "year2021": 25337
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Helmstedt",
+    "residents": {
+      "year1970": 27326,
+      "year1980": 26718,
+      "year1990": 27034,
+      "year2000": 26101,
+      "year2010": 23937,
+      "year2021": 25325
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Brilon",
+    "residents": {
+      "year1970": 13828,
+      "year1980": 24533,
+      "year1990": 25303,
+      "year2000": 27347,
+      "year2010": 26335,
+      "year2021": 25303
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Idstein",
+    "residents": {
+      "year1970": 9213,
+      "year1980": 18473,
+      "year1990": 20241,
+      "year2000": 22611,
+      "year2010": 23252,
+      "year2021": 25234
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Geretsried",
+    "residents": {
+      "year1970": 16438,
+      "year1980": 20034,
+      "year1990": 21866,
+      "year2000": 23056,
+      "year2010": 23306,
+      "year2021": 25221
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Verl",
+    "residents": {
+      "year1970": 15712,
+      "year1980": 18406,
+      "year1990": 19771,
+      "year2000": 23315,
+      "year2010": 24984,
+      "year2021": 25177
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lennestadt",
+    "residents": {
+      "year1970": 25408,
+      "year1980": 25996,
+      "year1990": 26468,
+      "year2000": 28026,
+      "year2010": 27115,
+      "year2021": 25176
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Weingarten",
+    "residents": {
+      "year1970": 18181,
+      "year1980": 21991,
+      "year1990": 22987,
+      "year2000": 23491,
+      "year2010": 23875,
+      "year2021": 25168
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Roth",
+    "residents": {
+      "year1970": 11722,
+      "year1980": 21657,
+      "year1990": 21737,
+      "year2000": 24858,
+      "year2010": 24417,
+      "year2021": 25165
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Wiehl",
+    "residents": {
+      "year1970": 16821,
+      "year1980": 21102,
+      "year1990": 23132,
+      "year2000": 26448,
+      "year2010": 25645,
+      "year2021": 25088
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Öhringen",
+    "residents": {
+      "year1970": 11446,
+      "year1980": 16211,
+      "year1990": 18535,
+      "year2000": 22005,
+      "year2010": 22762,
+      "year2021": 25049
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Salzkotten",
+    "residents": {
+      "year1970": 5909,
+      "year1980": 18216,
+      "year1990": 20495,
+      "year2000": 23501,
+      "year2010": 24868,
+      "year2021": 25040
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Petershagen",
+    "residents": {
+      "year1970": 3612,
+      "year1980": 24063,
+      "year1990": 24543,
+      "year2000": 27040,
+      "year2010": 25750,
+      "year2021": 25027
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Vaterstetten(*) 31",
+    "residents": {
+      "year1970": 8825,
+      "year1980": 17979,
+      "year1990": 18751,
+      "year2000": 20978,
+      "year2010": 22070,
+      "year2021": 25023
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Rottweil",
+    "residents": {
+      "year1970": 20532,
+      "year1980": 23673,
+      "year1990": 24002,
+      "year2000": 25180,
+      "year2010": 25659,
+      "year2021": 24984
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Obertshausen",
+    "residents": {
+      "year1970": 9096,
+      "year1980": 20897,
+      "year1990": 23285,
+      "year2000": 24658,
+      "year2010": 24083,
+      "year2021": 24968
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Stutensee27",
+    "residents": {
+      "year1970": 6120,
+      "year1980": 18404,
+      "year1990": 20064,
+      "year2000": 21375,
+      "year2010": 23583,
+      "year2021": 24924
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Pfungstadt",
+    "residents": {
+      "year1970": 17194,
+      "year1980": 23470,
+      "year1990": 23864,
+      "year2000": 25043,
+      "year2010": 24615,
+      "year2021": 24885
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Köthen (Anhalt)",
+    "residents": {
+      "year1970": 36624,
+      "year1980": 34639,
+      "year1990": 33097,
+      "year2000": 30360,
+      "year2010": 28243,
+      "year2021": 24876
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Delitzsch",
+    "residents": {
+      "year1970": 24435,
+      "year1980": 25248,
+      "year1990": 27051,
+      "year2000": 26331,
+      "year2010": 26344,
+      "year2021": 24862
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Norden",
+    "residents": {
+      "year1970": 16976,
+      "year1980": 24384,
+      "year1990": 23815,
+      "year2000": 24957,
+      "year2010": 25116,
+      "year2021": 24855
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Lüdinghausen",
+    "residents": {
+      "year1970": 12824,
+      "year1980": 17968,
+      "year1990": 20152,
+      "year2000": 22873,
+      "year2010": 24195,
+      "year2021": 24847
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bad Oldesloe",
+    "residents": {
+      "year1970": 18444,
+      "year1980": 20159,
+      "year1990": 21097,
+      "year2000": 23314,
+      "year2010": 24322,
+      "year2021": 24841
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Ditzingen",
+    "residents": {
+      "year1970": 11534,
+      "year1980": 22480,
+      "year1990": 23035,
+      "year2000": 23888,
+      "year2010": 24493,
+      "year2021": 24803
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Espelkamp",
+    "residents": {
+      "year1970": 12860,
+      "year1980": 23045,
+      "year1990": 26101,
+      "year2000": 26952,
+      "year2010": 25236,
+      "year2021": 24754
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Plettenberg",
+    "residents": {
+      "year1970": 30288,
+      "year1980": 29046,
+      "year1990": 29083,
+      "year2000": 29031,
+      "year2010": 26321,
+      "year2021": 24716
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schmallenberg",
+    "residents": {
+      "year1970": 5207,
+      "year1980": 25017,
+      "year1990": 25077,
+      "year2000": 26556,
+      "year2010": 25281,
+      "year2021": 24704
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Meckenheim",
+    "residents": {
+      "year1970": 7997,
+      "year1980": 16751,
+      "year1990": 22814,
+      "year2000": 25319,
+      "year2010": 24241,
+      "year2021": 24693
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Olpe",
+    "residents": {
+      "year1970": 21164,
+      "year1980": 22351,
+      "year1990": 23785,
+      "year2000": 25162,
+      "year2010": 25409,
+      "year2021": 24677
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Sprockhövel",
+    "residents": {
+      "year1970": 21911,
+      "year1980": 24356,
+      "year1990": 24505,
+      "year2000": 26454,
+      "year2010": 25408,
+      "year2021": 24659
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Markkleeberg",
+    "residents": {
+      "year1970": 22374,
+      "year1980": 21073,
+      "year1990": 17674,
+      "year2000": 23157,
+      "year2010": 24338,
+      "year2021": 24643
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Ellwangen (Jagst)",
+    "residents": {
+      "year1970": 13049,
+      "year1980": 21242,
+      "year1990": 22594,
+      "year2000": 24655,
+      "year2010": 24589,
+      "year2021": 24600
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Meiningen",
+    "residents": {
+      "year1970": 25557,
+      "year1980": 25528,
+      "year1990": 25585,
+      "year2000": 22240,
+      "year2010": 21590,
+      "year2021": 24538
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Zittau",
+    "residents": {
+      "year1970": 43321,
+      "year1980": 41852,
+      "year1990": 34465,
+      "year2000": 27454,
+      "year2010": 28212,
+      "year2021": 24517
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Rudolstadt",
+    "residents": {
+      "year1970": 31683,
+      "year1980": 31368,
+      "year1990": 30423,
+      "year2000": 27528,
+      "year2010": 23762,
+      "year2021": 24450
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Syke",
+    "residents": {
+      "year1970": 7116,
+      "year1980": 18292,
+      "year1990": 19674,
+      "year2000": 23565,
+      "year2010": 24341,
+      "year2021": 24365
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Warstein",
+    "residents": {
+      "year1970": 10438,
+      "year1980": 28329,
+      "year1990": 28363,
+      "year2000": 29028,
+      "year2010": 27170,
+      "year2021": 24325
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Isernhagen(*) 28",
+    "residents": {
+      "year1970": 5120,
+      "year1980": 19164,
+      "year1990": 21485,
+      "year2000": 22309,
+      "year2010": 22927,
+      "year2021": 24280
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Staßfurt",
+    "residents": {
+      "year1970": 26153,
+      "year1980": 26666,
+      "year1990": 25514,
+      "year2000": 20681,
+      "year2010": 28605,
+      "year2021": 24265
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Bad Mergentheim",
+    "residents": {
+      "year1970": 12477,
+      "year1980": 19121,
+      "year1990": 21567,
+      "year2000": 22181,
+      "year2010": 22394,
+      "year2021": 24247
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Ronnenberg",
+    "residents": {
+      "year1970": 16652,
+      "year1980": 19039,
+      "year1990": 21025,
+      "year2000": 23200,
+      "year2010": 23239,
+      "year2021": 24239
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Attendorn",
+    "residents": {
+      "year1970": 21735,
+      "year1980": 21511,
+      "year1990": 22736,
+      "year2000": 24460,
+      "year2010": 24693,
+      "year2021": 24207
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Waldshut-Tiengen",
+    "residents": {
+      "year1970": 10389,
+      "year1980": 21410,
+      "year1990": 21913,
+      "year2000": 22070,
+      "year2010": 22859,
+      "year2021": 24207
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Haren (Ems)",
+    "residents": {
+      "year1970": 7204,
+      "year1980": 16982,
+      "year1990": 18875,
+      "year2000": 22316,
+      "year2010": 22999,
+      "year2021": 24137
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Herzogenaurach",
+    "residents": {
+      "year1970": 12466,
+      "year1980": 16989,
+      "year1990": 20464,
+      "year2000": 23108,
+      "year2010": 23050,
+      "year2021": 24068
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Rathenow",
+    "residents": {
+      "year1970": 29836,
+      "year1980": 32110,
+      "year1990": 29823,
+      "year2000": 26639,
+      "year2010": 25301,
+      "year2021": 24063
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Moormerland(*) 29",
+    "residents": {
+      "year1970": 4416,
+      "year1980": 17868,
+      "year1990": 19285,
+      "year2000": 22382,
+      "year2010": 22456,
+      "year2021": 23987
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Übach-Palenberg",
+    "residents": {
+      "year1970": 22667,
+      "year1980": 22870,
+      "year1990": 23521,
+      "year2000": 24804,
+      "year2010": 24779,
+      "year2021": 23979
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Varel",
+    "residents": {
+      "year1970": 12812,
+      "year1980": 24279,
+      "year1990": 24076,
+      "year2000": 24771,
+      "year2010": 24587,
+      "year2021": 23957
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Waldkraiburg",
+    "residents": {
+      "year1970": 16724,
+      "year1980": 21695,
+      "year1990": 24709,
+      "year2000": 24335,
+      "year2010": 23892,
+      "year2021": 23957
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Riedstadt30",
+    "residents": {
+      "year1970": 5024,
+      "year1980": 17700,
+      "year1990": 17466,
+      "year2000": 20576,
+      "year2010": 21478,
+      "year2021": 23931
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Bedburg",
+    "residents": {
+      "year1970": 13147,
+      "year1980": 18783,
+      "year1990": 21524,
+      "year2000": 24237,
+      "year2010": 24647,
+      "year2021": 23867
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Sehnde",
+    "residents": {
+      "year1970": 5823,
+      "year1980": 18178,
+      "year1990": 17614,
+      "year2000": 20759,
+      "year2010": 22944,
+      "year2021": 23769
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Calw",
+    "residents": {
+      "year1970": 13020,
+      "year1980": 23165,
+      "year1990": 22668,
+      "year2000": 23391,
+      "year2010": 23230,
+      "year2021": 23742
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Freudenstadt",
+    "residents": {
+      "year1970": 14380,
+      "year1980": 19348,
+      "year1990": 22935,
+      "year2000": 23488,
+      "year2010": 23551,
+      "year2021": 23704
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Limbach-Oberfrohna",
+    "residents": {
+      "year1970": 25576,
+      "year1980": 23366,
+      "year1990": 22324,
+      "year2000": 27552,
+      "year2010": 25348,
+      "year2021": 23688
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Wandlitz(*)",
+    "residents": {
+      "year1970": 3284,
+      "year1980": 3031,
+      "year1990": 2979,
+      "year2000": 4547,
+      "year2010": 21704,
+      "year2021": 23657
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Jüchen",
+    "residents": {
+      "year1970": 5734,
+      "year1980": 20878,
+      "year1990": 21007,
+      "year2000": 22710,
+      "year2010": 22648,
+      "year2021": 23611
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Alfter(*)",
+    "residents": {
+      "year1970": 14651,
+      "year1980": 16270,
+      "year1990": 17677,
+      "year2000": 20907,
+      "year2010": 22820,
+      "year2021": 23521
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Husum",
+    "residents": {
+      "year1970": 25055,
+      "year1980": 24327,
+      "year1990": 20870,
+      "year2000": 20994,
+      "year2010": 22084,
+      "year2021": 23478
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Starnberg",
+    "residents": {
+      "year1970": 10544,
+      "year1980": 17420,
+      "year1990": 20687,
+      "year2000": 21945,
+      "year2010": 23148,
+      "year2021": 23453
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Westerstede",
+    "residents": {
+      "year1970": 16651,
+      "year1980": 17391,
+      "year1990": 18659,
+      "year2000": 21417,
+      "year2010": 22003,
+      "year2021": 23452
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Quedlinburg",
+    "residents": {
+      "year1970": 30758,
+      "year1980": 28585,
+      "year1990": 27972,
+      "year2000": 24114,
+      "year2010": 21120,
+      "year2021": 23341
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Mosbach",
+    "residents": {
+      "year1970": 13615,
+      "year1980": 23224,
+      "year1990": 24650,
+      "year2000": 25051,
+      "year2010": 24490,
+      "year2021": 23307
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Hann Münden",
+    "residents": {
+      "year1970": 18550,
+      "year1980": 25539,
+      "year1990": 25762,
+      "year2000": 25657,
+      "year2010": 24525,
+      "year2021": 23289
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Korbach",
+    "residents": {
+      "year1970": 22178,
+      "year1980": 22486,
+      "year1990": 22171,
+      "year2000": 24515,
+      "year2010": 23581,
+      "year2021": 23287
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Döbeln",
+    "residents": {
+      "year1970": 27855,
+      "year1980": 27011,
+      "year1990": 26827,
+      "year2000": 23128,
+      "year2010": 20242,
+      "year2021": 23232
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Senftenberg",
+    "residents": {
+      "year1970": 24367,
+      "year1980": 32095,
+      "year1990": 29451,
+      "year2000": 24740,
+      "year2010": 26530,
+      "year2021": 23232
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Dillenburg",
+    "residents": {
+      "year1970": 10130,
+      "year1980": 23485,
+      "year1990": 24399,
+      "year2000": 25092,
+      "year2010": 23608,
+      "year2021": 23230
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Gelnhausen",
+    "residents": {
+      "year1970": 10262,
+      "year1980": 18526,
+      "year1990": 19559,
+      "year2000": 21799,
+      "year2010": 21510,
+      "year2021": 23220
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Kaltenkirchen",
+    "residents": {
+      "year1970": 7158,
+      "year1980": 11319,
+      "year1990": 13547,
+      "year2000": 18081,
+      "year2010": 20000,
+      "year2021": 23191
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Netphen",
+    "residents": {
+      "year1970": 19861,
+      "year1980": 22453,
+      "year1990": 23293,
+      "year2000": 25034,
+      "year2010": 24101,
+      "year2021": 23116
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Sonneberg",
+    "residents": {
+      "year1970": 29794,
+      "year1980": 28750,
+      "year1990": 26568,
+      "year2000": 24837,
+      "year2010": 22356,
+      "year2021": 23097
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Leutkirch im Allgäu",
+    "residents": {
+      "year1970": 9899,
+      "year1980": 19900,
+      "year1990": 20722,
+      "year2000": 21988,
+      "year2010": 21902,
+      "year2021": 23056
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bad Soden am Taunus",
+    "residents": {
+      "year1970": 10200,
+      "year1980": 18589,
+      "year1990": 18905,
+      "year2000": 20693,
+      "year2010": 21644,
+      "year2021": 23036
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Salzwedel",
+    "residents": {
+      "year1970": 19792,
+      "year1980": 22904,
+      "year1990": 23056,
+      "year2000": 20349,
+      "year2010": 24090,
+      "year2021": 22999
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Bad Salzungen",
+    "residents": {
+      "year1970": 15623,
+      "year1980": 20777,
+      "year1990": 21260,
+      "year2000": 17086,
+      "year2010": 15851,
+      "year2021": 22976
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Warburg",
+    "residents": {
+      "year1970": 9360,
+      "year1980": 21927,
+      "year1990": 22562,
+      "year2000": 24204,
+      "year2010": 23436,
+      "year2021": 22953
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Eisenhüttenstadt",
+    "residents": {
+      "year1970": 45410,
+      "year1980": 48253,
+      "year1990": 50216,
+      "year2000": 41493,
+      "year2010": 31132,
+      "year2021": 22919
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Rastede(*)",
+    "residents": {
+      "year1970": 16662,
+      "year1980": 17453,
+      "year1990": 18526,
+      "year2000": 20008,
+      "year2010": 20817,
+      "year2021": 22874
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Wallenhorst(*)",
+    "residents": {
+      "year1970": 2890,
+      "year1980": 18218,
+      "year1990": 21604,
+      "year2000": 23293,
+      "year2010": 23706,
+      "year2021": 22867
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Gersthofen",
+    "residents": {
+      "year1970": 15462,
+      "year1980": 17010,
+      "year1990": 17729,
+      "year2000": 19879,
+      "year2010": 20805,
+      "year2021": 22847
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Karben",
+    "residents": {
+      "year1970": 11131,
+      "year1980": 18052,
+      "year1990": 19958,
+      "year2000": 21380,
+      "year2010": 21717,
+      "year2021": 22843
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Büdingen",
+    "residents": {
+      "year1970": 6565,
+      "year1980": 17176,
+      "year1990": 18148,
+      "year2000": 20942,
+      "year2010": 21230,
+      "year2021": 22831
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Wertheim",
+    "residents": {
+      "year1970": 12009,
+      "year1980": 19972,
+      "year1990": 21627,
+      "year2000": 24337,
+      "year2010": 23552,
+      "year2021": 22777
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Vreden",
+    "residents": {
+      "year1970": 17150,
+      "year1980": 18361,
+      "year1990": 19421,
+      "year2000": 21718,
+      "year2010": 22551,
+      "year2021": 22758
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Edewecht(*)",
+    "residents": {
+      "year1970": 12328,
+      "year1980": 13690,
+      "year1990": 15334,
+      "year2000": 19226,
+      "year2010": 21268,
+      "year2021": 22748
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Weilheim in Oberbayern",
+    "residents": {
+      "year1970": 14676,
+      "year1980": 17100,
+      "year1990": 18294,
+      "year2000": 20863,
+      "year2010": 21649,
+      "year2021": 22703
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Herdecke",
+    "residents": {
+      "year1970": 20815,
+      "year1980": 24009,
+      "year1990": 26184,
+      "year2000": 25928,
+      "year2010": 24428,
+      "year2021": 22689
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Überlingen",
+    "residents": {
+      "year1970": 12895,
+      "year1980": 18734,
+      "year1990": 20102,
+      "year2000": 20547,
+      "year2010": 21818,
+      "year2021": 22684
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Neusäß",
+    "residents": {
+      "year1970": 6500,
+      "year1980": 18557,
+      "year1990": 20332,
+      "year2000": 21719,
+      "year2010": 21564,
+      "year2021": 22676
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Nagold",
+    "residents": {
+      "year1970": 12488,
+      "year1980": 20334,
+      "year1990": 21505,
+      "year2000": 22661,
+      "year2010": 22542,
+      "year2021": 22635
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Senden",
+    "residents": {
+      "year1970": 7916,
+      "year1980": 19311,
+      "year1990": 20094,
+      "year2000": 21674,
+      "year2010": 22376,
+      "year2021": 22625
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bad Kissingen",
+    "residents": {
+      "year1970": 12345,
+      "year1980": 22102,
+      "year1990": 21081,
+      "year2000": 21565,
+      "year2010": 20802,
+      "year2021": 22619
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Friesoythe",
+    "residents": {
+      "year1970": 6131,
+      "year1980": 16078,
+      "year1990": 17142,
+      "year2000": 19861,
+      "year2010": 20641,
+      "year2021": 22612
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Laupheim",
+    "residents": {
+      "year1970": 14355,
+      "year1980": 14970,
+      "year1990": 16286,
+      "year2000": 18460,
+      "year2010": 19796,
+      "year2021": 22595
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Lengerich",
+    "residents": {
+      "year1970": 21638,
+      "year1980": 20597,
+      "year1990": 21045,
+      "year2000": 22052,
+      "year2010": 22234,
+      "year2021": 22527
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Kitzingen",
+    "residents": {
+      "year1970": 17838,
+      "year1980": 20262,
+      "year1990": 19918,
+      "year2000": 21242,
+      "year2010": 20705,
+      "year2021": 22429
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Lutherstadt Eisleben",
+    "residents": {
+      "year1970": 30482,
+      "year1980": 27372,
+      "year1990": 25874,
+      "year2000": 21062,
+      "year2010": 25489,
+      "year2021": 22404
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Burg",
+    "residents": {
+      "year1970": 29990,
+      "year1980": 28461,
+      "year1990": 26353,
+      "year2000": 22951,
+      "year2010": 24163,
+      "year2021": 22254
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Apolda",
+    "residents": {
+      "year1970": 29003,
+      "year1980": 28965,
+      "year1990": 26507,
+      "year2000": 25899,
+      "year2010": 23131,
+      "year2021": 22232
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Stadthagen",
+    "residents": {
+      "year1970": 16574,
+      "year1980": 22704,
+      "year1990": 22778,
+      "year2000": 23802,
+      "year2010": 22272,
+      "year2021": 22210
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Rotenburg (Wümme)",
+    "residents": {
+      "year1970": 16308,
+      "year1980": 19707,
+      "year1990": 19183,
+      "year2000": 21670,
+      "year2010": 21821,
+      "year2021": 22199
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Donaueschingen",
+    "residents": {
+      "year1970": 11680,
+      "year1980": 17762,
+      "year1990": 19341,
+      "year2000": 21160,
+      "year2010": 21128,
+      "year2021": 22150
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Metzingen",
+    "residents": {
+      "year1970": 14433,
+      "year1980": 19473,
+      "year1990": 20754,
+      "year2000": 21608,
+      "year2010": 22035,
+      "year2021": 22084
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Quickborn",
+    "residents": {
+      "year1970": 14780,
+      "year1980": 18025,
+      "year1990": 18485,
+      "year2000": 19875,
+      "year2010": 20556,
+      "year2021": 22015
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Eppingen",
+    "residents": {
+      "year1970": 6708,
+      "year1980": 14833,
+      "year1990": 16418,
+      "year2000": 20257,
+      "year2010": 21388,
+      "year2021": 22001
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Gardelegen",
+    "residents": {
+      "year1970": 13266,
+      "year1980": 12780,
+      "year1990": 13078,
+      "year2000": 12206,
+      "year2010": 14315,
+      "year2021": 21980
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Ilsede(*)",
+    "residents": {
+      "year1980": 12157,
+      "year1990": 11931,
+      "year2000": 12219,
+      "year2010": 11781,
+      "year2021": 21975
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Radevormwald",
+    "residents": {
+      "year1970": 21218,
+      "year1980": 23607,
+      "year1990": 23762,
+      "year2000": 24800,
+      "year2010": 22526,
+      "year2021": 21952
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Glauchau",
+    "residents": {
+      "year1970": 32168,
+      "year1980": 29376,
+      "year1990": 25734,
+      "year2000": 27285,
+      "year2010": 24442,
+      "year2021": 21914
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Waldkirch",
+    "residents": {
+      "year1970": 11120,
+      "year1980": 18784,
+      "year1990": 19482,
+      "year2000": 19739,
+      "year2010": 20857,
+      "year2021": 21899
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bad Rappenau",
+    "residents": {
+      "year1970": 5404,
+      "year1980": 13826,
+      "year1990": 15884,
+      "year2000": 19884,
+      "year2010": 20505,
+      "year2021": 21876
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Karlsfeld(*)",
+    "residents": {
+      "year1970": 11687,
+      "year1980": 14327,
+      "year1990": 14831,
+      "year2000": 18187,
+      "year2010": 18293,
+      "year2021": 21853
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Heide",
+    "residents": {
+      "year1970": 22950,
+      "year1980": 21104,
+      "year1990": 20659,
+      "year2000": 20530,
+      "year2010": 20886,
+      "year2021": 21844
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Versmold",
+    "residents": {
+      "year1970": 7216,
+      "year1980": 18328,
+      "year1990": 18231,
+      "year2000": 20397,
+      "year2010": 20985,
+      "year2021": 21829
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Haar(*)",
+    "residents": {
+      "year1970": 11074,
+      "year1980": 19682,
+      "year1990": 16518,
+      "year2000": 16975,
+      "year2010": 19430,
+      "year2021": 21797
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bad Harzburg",
+    "residents": {
+      "year1970": 10586,
+      "year1980": 24924,
+      "year1990": 23882,
+      "year2000": 23100,
+      "year2010": 21891,
+      "year2021": 21754
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Neu Wulmstorf(*)",
+    "residents": {
+      "year1970": 7515,
+      "year1980": 12691,
+      "year1990": 15466,
+      "year2000": 19898,
+      "year2010": 20846,
+      "year2021": 21748
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Elsdorf",
+    "residents": {
+      "year1970": 5121,
+      "year1980": 17495,
+      "year1990": 19944,
+      "year2000": 21692,
+      "year2010": 21193,
+      "year2021": 21745
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Eschborn",
+    "residents": {
+      "year1970": 11499,
+      "year1980": 17763,
+      "year1990": 18235,
+      "year2000": 19630,
+      "year2010": 20811,
+      "year2021": 21734
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Ottobrunn(*)",
+    "residents": {
+      "year1970": 13840,
+      "year1980": 19894,
+      "year1990": 18933,
+      "year2000": 19003,
+      "year2010": 20105,
+      "year2021": 21719
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Flörsheim am Main",
+    "residents": {
+      "year1970": 10297,
+      "year1980": 16497,
+      "year1990": 16959,
+      "year2000": 19243,
+      "year2010": 20338,
+      "year2021": 21671
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Hockenheim",
+    "residents": {
+      "year1970": 15670,
+      "year1980": 15997,
+      "year1990": 17015,
+      "year2000": 20009,
+      "year2010": 21118,
+      "year2021": 21620
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Sonthofen",
+    "residents": {
+      "year1970": 16822,
+      "year1980": 20149,
+      "year1990": 20603,
+      "year2000": 21319,
+      "year2010": 20874,
+      "year2021": 21589
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Halle (Westf)",
+    "residents": {
+      "year1970": 10183,
+      "year1980": 18560,
+      "year1990": 18841,
+      "year2000": 20478,
+      "year2010": 21081,
+      "year2021": 21574
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Eckernförde",
+    "residents": {
+      "year1970": 21299,
+      "year1980": 23081,
+      "year1990": 22426,
+      "year2000": 23304,
+      "year2010": 22614,
+      "year2021": 21573
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Westoverledingen(*)",
+    "residents": {
+      "year1970": 14911,
+      "year1980": 15442,
+      "year1990": 16839,
+      "year2000": 19433,
+      "year2010": 19828,
+      "year2021": 21539
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Aichach",
+    "residents": {
+      "year1970": 7123,
+      "year1980": 15114,
+      "year1990": 17268,
+      "year2000": 20272,
+      "year2010": 20866,
+      "year2021": 21515
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Xanten",
+    "residents": {
+      "year1970": 15077,
+      "year1980": 15743,
+      "year1990": 16930,
+      "year2000": 20575,
+      "year2010": 21572,
+      "year2021": 21502
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Spremberg",
+    "residents": {
+      "year1970": 22871,
+      "year1980": 23181,
+      "year1990": 24217,
+      "year2000": 26230,
+      "year2010": 24373,
+      "year2021": 21464
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Schwetzingen",
+    "residents": {
+      "year1970": 16480,
+      "year1980": 18384,
+      "year1990": 19098,
+      "year2000": 22380,
+      "year2010": 21789,
+      "year2021": 21435
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Geseke",
+    "residents": {
+      "year1970": 13242,
+      "year1980": 20305,
+      "year1990": 17733,
+      "year2000": 19976,
+      "year2010": 20755,
+      "year2021": 21411
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Lindlar(*)",
+    "residents": {
+      "year1970": 12780,
+      "year1980": 16991,
+      "year1990": 19307,
+      "year2000": 22341,
+      "year2010": 22074,
+      "year2021": 21366
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Seligenstadt",
+    "residents": {
+      "year1970": 12278,
+      "year1980": 16970,
+      "year1990": 18175,
+      "year2000": 19066,
+      "year2010": 20243,
+      "year2021": 21345
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Eislingen/Fils",
+    "residents": {
+      "year1970": 18106,
+      "year1980": 18235,
+      "year1990": 17934,
+      "year2000": 19886,
+      "year2010": 20364,
+      "year2021": 21329
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Büren",
+    "residents": {
+      "year1970": 6188,
+      "year1980": 17530,
+      "year1990": 18748,
+      "year2000": 22108,
+      "year2010": 21500,
+      "year2021": 21328
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Osterode am Harz",
+    "residents": {
+      "year1970": 16660,
+      "year1980": 28349,
+      "year1990": 27097,
+      "year2000": 25848,
+      "year2010": 23444,
+      "year2021": 21316
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Soltau",
+    "residents": {
+      "year1970": 15835,
+      "year1980": 18921,
+      "year1990": 19714,
+      "year2000": 21906,
+      "year2010": 21829,
+      "year2021": 21309
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Mühldorf am Inn",
+    "residents": {
+      "year1970": 14523,
+      "year1980": 14598,
+      "year1990": 15314,
+      "year2000": 17326,
+      "year2010": 17827,
+      "year2021": 21254
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Zerbst/Anhalt",
+    "residents": {
+      "year1970": 19638,
+      "year1980": 19279,
+      "year1990": 18149,
+      "year2000": 16378,
+      "year2010": 23167,
+      "year2021": 21234
+    },
+    "state": "Sachsen-Anhalt"
+  },
+  {
+    "cityName": "Günzburg",
+    "residents": {
+      "year1970": 17820,
+      "year1980": 18509,
+      "year1990": 19066,
+      "year2000": 19599,
+      "year2010": 19561,
+      "year2021": 21233
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Puchheim",
+    "residents": {
+      "year1970": 6652,
+      "year1980": 17692,
+      "year1990": 19004,
+      "year2000": 19629,
+      "year2010": 19769,
+      "year2021": 21221
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Waghäusel",
+    "residents": {
+      "year1970": 16574,
+      "year1980": 17123,
+      "year1990": 17848,
+      "year2000": 19632,
+      "year2010": 20620,
+      "year2021": 21178
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Stadtallendorf",
+    "residents": {
+      "year1970": 15832,
+      "year1980": 20243,
+      "year1990": 21136,
+      "year2000": 21656,
+      "year2010": 21247,
+      "year2021": 21121
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Waren (Müritz)",
+    "residents": {
+      "year1970": 21306,
+      "year1980": 23326,
+      "year1990": 24102,
+      "year2000": 22044,
+      "year2010": 21051,
+      "year2021": 21116
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Rees",
+    "residents": {
+      "year1970": 7805,
+      "year1980": 17440,
+      "year1990": 18616,
+      "year2000": 21618,
+      "year2010": 22267,
+      "year2021": 21045
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Bad Krozingen",
+    "residents": {
+      "year1980": 11596,
+      "year1990": 13041,
+      "year2000": 14970,
+      "year2010": 17063,
+      "year2021": 21029
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Wülfrath",
+    "residents": {
+      "year1970": 23387,
+      "year1980": 20912,
+      "year1990": 21987,
+      "year2000": 22531,
+      "year2010": 21299,
+      "year2021": 21009
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Groß-Umstadt",
+    "residents": {
+      "year1970": 8704,
+      "year1980": 18812,
+      "year1990": 19238,
+      "year2000": 21403,
+      "year2010": 21333,
+      "year2021": 21001
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Schramberg",
+    "residents": {
+      "year1970": 18936,
+      "year1980": 19157,
+      "year1990": 19086,
+      "year2000": 18883,
+      "year2010": 21242,
+      "year2021": 20972
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Sondershausen",
+    "residents": {
+      "year1970": 22949,
+      "year1980": 23371,
+      "year1990": 23370,
+      "year2000": 23088,
+      "year2010": 23142,
+      "year2021": 20885
+    },
+    "state": "Thüringen"
+  },
+  {
+    "cityName": "Wipperfürth",
+    "residents": {
+      "year1970": 13120,
+      "year1980": 20783,
+      "year1990": 21487,
+      "year2000": 23095,
+      "year2010": 23186,
+      "year2021": 20879
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Traunstein",
+    "residents": {
+      "year1970": 18171,
+      "year1980": 17078,
+      "year1990": 17544,
+      "year2000": 17996,
+      "year2010": 18845,
+      "year2021": 20868
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Traunreut",
+    "residents": {
+      "year1970": 12145,
+      "year1980": 18516,
+      "year1990": 20838,
+      "year2000": 21403,
+      "year2010": 20658,
+      "year2021": 20861
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Gauting(*)",
+    "residents": {
+      "year1970": 15153,
+      "year1980": 17886,
+      "year1990": 17948,
+      "year2000": 19029,
+      "year2010": 20005,
+      "year2021": 20829
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Germersheim",
+    "residents": {
+      "year1970": 9150,
+      "year1980": 13347,
+      "year1990": 15277,
+      "year2000": 20134,
+      "year2010": 20588,
+      "year2021": 20716
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Wildeshausen",
+    "residents": {
+      "year1970": 10791,
+      "year1980": 13351,
+      "year1990": 14311,
+      "year2000": 16985,
+      "year2010": 19209,
+      "year2021": 20667
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Panketal(*)34",
+    "residents": {
+      "year1970": 9109,
+      "year1980": 8408,
+      "year1990": 7684,
+      "year2000": 11542,
+      "year2010": 19132,
+      "year2021": 20658
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Nördlingen",
+    "residents": {
+      "year1970": 19120,
+      "year1980": 18562,
+      "year1990": 18794,
+      "year2000": 19660,
+      "year2010": 19023,
+      "year2021": 20644
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bruchköbel",
+    "residents": {
+      "year1970": 8707,
+      "year1980": 17918,
+      "year1990": 18305,
+      "year2000": 20396,
+      "year2010": 20572,
+      "year2021": 20602
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Zülpich",
+    "residents": {
+      "year1980": 16538,
+      "year1990": 17298,
+      "year2000": 19444,
+      "year2010": 20005,
+      "year2021": 20597
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schortens",
+    "residents": {
+      "year1970": 14523,
+      "year1980": 20119,
+      "year1990": 19485,
+      "year2000": 21299,
+      "year2010": 20691,
+      "year2021": 20590
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Mössingen",
+    "residents": {
+      "year1970": 9327,
+      "year1980": 14208,
+      "year1990": 16907,
+      "year2000": 18986,
+      "year2010": 20039,
+      "year2021": 20567
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Nidderau",
+    "residents": {
+      "year1970": 5797,
+      "year1980": 14082,
+      "year1990": 15639,
+      "year2000": 19689,
+      "year2010": 19859,
+      "year2021": 20539
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Luckenwalde",
+    "residents": {
+      "year1970": 29000,
+      "year1980": 27496,
+      "year1990": 25668,
+      "year2000": 22389,
+      "year2010": 20471,
+      "year2021": 20535
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Meinerzhagen",
+    "residents": {
+      "year1970": 17749,
+      "year1980": 19042,
+      "year1990": 19907,
+      "year2000": 21884,
+      "year2010": 20838,
+      "year2021": 20535
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Herborn",
+    "residents": {
+      "year1970": 10287,
+      "year1980": 21502,
+      "year1990": 20909,
+      "year2000": 21380,
+      "year2010": 20595,
+      "year2021": 20520
+    },
+    "state": "Hessen"
+  },
+  {
+    "cityName": "Hörstel",
+    "residents": {
+      "year1970": 4940,
+      "year1980": 15542,
+      "year1990": 15772,
+      "year2000": 19371,
+      "year2010": 19883,
+      "year2021": 20506
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Senden(*)",
+    "residents": {
+      "year1970": 6094,
+      "year1980": 14428,
+      "year1990": 15341,
+      "year2000": 19562,
+      "year2010": 20778,
+      "year2021": 20495
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Enger",
+    "residents": {
+      "year1970": 15808,
+      "year1980": 16128,
+      "year1990": 17194,
+      "year2000": 19963,
+      "year2010": 20010,
+      "year2021": 20483
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Coswig",
+    "residents": {
+      "year1970": 20276,
+      "year1980": 28734,
+      "year1990": 25855,
+      "year2000": 24035,
+      "year2010": 21297,
+      "year2021": 20462
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Stadtlohn",
+    "residents": {
+      "year1970": 15470,
+      "year1980": 16723,
+      "year1990": 17713,
+      "year2000": 20237,
+      "year2010": 20631,
+      "year2021": 20458
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Fröndenberg/Ruhr",
+    "residents": {
+      "year1970": 17779,
+      "year1980": 20627,
+      "year1990": 21252,
+      "year2000": 22995,
+      "year2010": 21915,
+      "year2021": 20436
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Wittmund",
+    "residents": {
+      "year1970": 6670,
+      "year1980": 19180,
+      "year1990": 19469,
+      "year2000": 21471,
+      "year2010": 20756,
+      "year2021": 20433
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Schwanewede(*)",
+    "residents": {
+      "year1970": 8310,
+      "year1980": 17629,
+      "year1990": 16989,
+      "year2000": 19218,
+      "year2010": 19904,
+      "year2021": 20408
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Steinhagen(*)",
+    "residents": {
+      "year1970": 8397,
+      "year1980": 16220,
+      "year1990": 17303,
+      "year2000": 19619,
+      "year2010": 19766,
+      "year2021": 20405
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Schifferstadt",
+    "residents": {
+      "year1970": 17148,
+      "year1980": 17250,
+      "year1990": 17909,
+      "year2000": 18893,
+      "year2010": 19375,
+      "year2021": 20403
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Wachtberg(*)",
+    "residents": {
+      "year1970": 11882,
+      "year1980": 16563,
+      "year1990": 17281,
+      "year2000": 18870,
+      "year2010": 20202,
+      "year2021": 20391
+    },
+    "state": "Nordrhein-Westfalen"
+  },
+  {
+    "cityName": "Werdau",
+    "residents": {
+      "year1970": 23133,
+      "year1980": 20513,
+      "year1990": 19241,
+      "year2000": 26077,
+      "year2010": 22616,
+      "year2021": 20381
+    },
+    "state": "Sachsen"
+  },
+  {
+    "cityName": "Uetze(*)",
+    "residents": {
+      "year1970": 5478,
+      "year1980": 17052,
+      "year1990": 17619,
+      "year2000": 19742,
+      "year2010": 20145,
+      "year2021": 20333
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Rheinstetten33",
+    "residents": {
+      "year1970": 17348,
+      "year1980": 18814,
+      "year1990": 19405,
+      "year2000": 20333,
+      "year2010": 20552,
+      "year2021": 20301
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Bad Schwartau",
+    "residents": {
+      "year1970": 16754,
+      "year1980": 19510,
+      "year1990": 20224,
+      "year2000": 20098,
+      "year2010": 19714,
+      "year2021": 20264
+    },
+    "state": "Schleswig-Holstein"
+  },
+  {
+    "cityName": "Haßloch(*)",
+    "residents": {
+      "year1970": 17684,
+      "year1980": 17677,
+      "year1990": 19272,
+      "year2000": 20781,
+      "year2010": 20416,
+      "year2021": 20215
+    },
+    "state": "Rheinland-Pfalz"
+  },
+  {
+    "cityName": "Neufahrn bei Freising(*)",
+    "residents": {
+      "year1970": 8735,
+      "year1980": 14165,
+      "year1990": 15137,
+      "year2000": 17452,
+      "year2010": 19046,
+      "year2021": 20202
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Dingolfing",
+    "residents": {
+      "year1970": 13314,
+      "year1980": 13728,
+      "year1990": 15683,
+      "year2000": 18419,
+      "year2010": 18222,
+      "year2021": 20191
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Bad Waldsee",
+    "residents": {
+      "year1970": 7833,
+      "year1980": 14405,
+      "year1990": 16451,
+      "year2000": 19026,
+      "year2010": 19938,
+      "year2021": 20175
+    },
+    "state": "Baden-Württemberg"
+  },
+  {
+    "cityName": "Blieskastel",
+    "residents": {
+      "year1970": 6323,
+      "year1980": 22561,
+      "year1990": 22612,
+      "year2000": 23149,
+      "year2010": 21885,
+      "year2021": 20153
+    },
+    "state": "Saarland"
+  },
+  {
+    "cityName": "Kleinmachnow(*)",
+    "residents": {
+      "year1970": 14304,
+      "year1980": 13341,
+      "year1990": 11565,
+      "year2000": 15796,
+      "year2010": 19890,
+      "year2021": 20136
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Zossen",
+    "residents": {
+      "year1990": 6067,
+      "year2000": 6891,
+      "year2010": 17606,
+      "year2021": 20130
+    },
+    "state": "Brandenburg"
+  },
+  {
+    "cityName": "Burgwedel32",
+    "residents": {
+      "year1970": 5494,
+      "year1980": 18573,
+      "year1990": 18314,
+      "year2000": 19861,
+      "year2010": 20487,
+      "year2021": 20123
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Neustrelitz",
+    "residents": {
+      "year1970": 27806,
+      "year1980": 27201,
+      "year1990": 26124,
+      "year2000": 23333,
+      "year2010": 21207,
+      "year2021": 20103
+    },
+    "state": "Mecklenburg-Vorpommern"
+  },
+  {
+    "cityName": "Duderstadt",
+    "residents": {
+      "year1970": 10943,
+      "year1980": 22846,
+      "year1990": 23021,
+      "year2000": 23156,
+      "year2010": 21722,
+      "year2021": 20097
+    },
+    "state": "Niedersachsen"
+  },
+  {
+    "cityName": "Lichtenfels",
+    "residents": {
+      "year1970": 11383,
+      "year1980": 20276,
+      "year1990": 20963,
+      "year2000": 21625,
+      "year2010": 20555,
+      "year2021": 20071
+    },
+    "state": "Bayern"
+  },
+  {
+    "cityName": "Greiz",
+    "residents": {
+      "year1970": 39247,
+      "year1980": 36779,
+      "year1990": 32408,
+      "year2000": 26177,
+      "year2010": 21792,
+      "year2021": 20021
+    },
+    "state": "Thüringen"
+  }
+]
