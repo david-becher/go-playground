@@ -1,6 +1,8 @@
 package main
 
-import "log"
+import (
+	"log"
+)
 
 type city struct {
 	cityName  string
@@ -12,16 +14,22 @@ type city struct {
 
 func main() {
 	fileName := "cities.json"
-	cities := jsonToStruct(fileName)
+	cities, err := jsonToStruct(fileName)
+	if err != nil {
+		log.Fatal(err)
+	}
 
 	cityName, maxResidents := cityWithHighestResidents(cities)
 	log.Printf("City with highest residents: %s (%d)", cityName, maxResidents)
 
 	sortedList := sortCitiesByResidents(cities)
-	_ = sortedList
+	err = writeToFile(sortedList)
+	if err != nil {
+		log.Fatal(err)
+	}
 }
 
-func jsonToStruct(fileName string) []city {
+func jsonToStruct(filename string) ([]city, error) {
 	panic("implement me")
 }
 
@@ -39,5 +47,9 @@ func cityWithHighestResidents(cities []city) (string, int) {
 
 func sortCitiesByResidents(cities []city) []city {
 	panic("implement me")
+}
 
+func writeToFile(cities []city) error {
+	filename := "cities_sorted.json"
+	panic("implement me")
 }
